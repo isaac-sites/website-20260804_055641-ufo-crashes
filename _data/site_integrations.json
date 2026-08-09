@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "profile_id": "ufo-crashes",
+  "tools": [
+    {
+      "id": "archive-crash-map",
+      "kind": "remote-map",
+      "title": "Explore crash-related case records",
+      "description": "Search mapped case records and archive evidence associated with reported UFO crashes and retrieval claims.",
+      "nav_label": "Crash case map",
+      "route": "/crash-case-map/",
+      "homepage_promotion": true,
+      "embed_origin": "isaackoi.com",
+      "focus_mode": "configured"
+    }
+  ]
+}

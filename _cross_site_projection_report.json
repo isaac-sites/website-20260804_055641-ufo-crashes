@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-08-09T09:22:29Z",
+  "source_site_id": "ufo-crashes",
+  "approved_relationship_count": 2,
+  "rendered_group_count": 0,
+  "rendered_link_count": 0,
+  "underfilled_source_page_ids": [],
+  "failures": [
+    {
+      "relationship_id": "rel-541a6eb81719915fdac213a9",
+      "reason": "source_page_missing_or_unavailable"
+    },
+    {
+      "relationship_id": "rel-6a3a3e012c7f6fa17e50df78",
+      "reason": "source_page_missing_or_unavailable"
+    }
+  ],
+  "status": "ok"
+}

@@ -25,7 +25,7 @@
       "1": 30,
       "2": 180
     },
-    "p90_title_length": 17,
+    "p90_title_length": 15,
     "root_density_tier": "very-dense",
     "top_branch_density_counts": {
       "sparse": 0,
@@ -36,13 +36,13 @@
     "long_title_branch_count": 0,
     "single_root_tree": true,
     "topic_labels": [
-      "UFO crashes"
+      "Did Any UFO Crash Really Happen?"
     ]
   },
   "selected": {
     "site_visual_identity": "signal-cobalt",
-    "site_visual_identity_source": "remote_model",
-    "site_visual_identity_confidence": "high",
+    "site_visual_identity_source": "local_inference",
+    "site_visual_identity_confidence": "medium",
     "visual_profile": "compact",
     "layout_archetype": "compact-grid",
     "home_layout_mode": "vertical",

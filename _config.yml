@@ -3,7 +3,7 @@ short_title: 'UFO Crashes'
 brand_name: 'Branchoria'
 brand_domain: 'branchoria.com'
 description: 'Practical guides on UFO Crashes, organized for fast browsing and comparison.'
-tagline: 'Evidence-led accounts of famous crash claims, witnesses, records and ordinary explanations.'
+tagline: 'Evidence-led pages on famous crash claims, missing records, and ordinary explanations.'
 encoding: utf-8
 lang: 'en'
 locale: 'en'
@@ -11,8 +11,8 @@ text_direction: 'ltr'
 direction: 'ltr'
 visual_profile: 'compact'
 site_visual_identity: 'signal-cobalt'
-site_visual_identity_source: 'remote_model'
-site_visual_identity_confidence: 'high'
+site_visual_identity_source: 'local_inference'
+site_visual_identity_confidence: 'medium'
 layout_archetype: 'compact-grid'
 visual_palette: 'signal-cobalt'
 visual_motif: 'constellation'
@@ -32,6 +32,7 @@ endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
 social_cards_enabled: true
+social_infographic_candidates_enabled: true
 social_card_max_level: 1
 native_share_enabled: true
 article_schema_enabled: true
@@ -43,7 +44,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1785846207'
+ui_bundle_version: 'build-1786267288'
 google_site_verification: ''
 draft_noindex: false
 theme: minima

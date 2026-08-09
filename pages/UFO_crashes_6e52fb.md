@@ -2,37 +2,37 @@
 level: 1
 basename: UFO_crashes_6e52fb
 child_basenames:
-- UFO_crashes_6e52fb_aircraft_accident_lo_c19ae2
-- UFO_crashes_6e52fb_alien_body_memories_3a62fe
-- UFO_crashes_6e52fb_balloon_ufo_wreckage_5e56e9
-- UFO_crashes_6e52fb_credible_crash_photo_6b2fab
-- UFO_crashes_6e52fb_emergency_response_m_c79736
-- UFO_crashes_6e52fb_fireball_crash_mista_4f238a
+- UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893
+- UFO_crashes_6e52fb_aircraft_accident_al_c21b37
+- UFO_crashes_6e52fb_alien_body_claims_816ffd
+- UFO_crashes_6e52fb_aurora_airship_d1e639
+- UFO_crashes_6e52fb_balloon_misidentific_7c5cdb
+- UFO_crashes_6e52fb_chain_of_custody_70063d
+- UFO_crashes_6e52fb_cold_war_tech_6ee382
+- UFO_crashes_6e52fb_crash_folklore_touri_50ae99
+- UFO_crashes_6e52fb_crash_sites_7788de
+- UFO_crashes_6e52fb_crashes_vs_sightings_102ba4
+- UFO_crashes_6e52fb_debris_testing_7087d2
+- UFO_crashes_6e52fb_destroyed_records_19b147
+- UFO_crashes_6e52fb_evaluate_crash_claim_69323f
+- UFO_crashes_6e52fb_foia_ufo_crashes_9ba906
 - UFO_crashes_6e52fb_index
-- UFO_crashes_6e52fb_kecksburg_fireball_9211d2
-- UFO_crashes_6e52fb_major_crash_comparis_fa14b9
-- UFO_crashes_6e52fb_media_reshaped_cases_b339d5
-- UFO_crashes_6e52fb_military_secrecy_leg_998cf1
-- UFO_crashes_6e52fb_missing_ufo_records_34e877
-- UFO_crashes_6e52fb_nasa_uap_evidence_4f9c9d
-- UFO_crashes_6e52fb_official_crash_revie_0713a4
-- UFO_crashes_6e52fb_project_mogul_secrec_deaa3f
-- UFO_crashes_6e52fb_radar_reflector_debr_47b94a
-- UFO_crashes_6e52fb_records_vs_recollect_cc1781
-- UFO_crashes_6e52fb_roswell_press_releas_22ebff
-- UFO_crashes_6e52fb_roswell_project_mogu_55e357
-- UFO_crashes_6e52fb_satellite_debris_cas_c8bb69
-- UFO_crashes_6e52fb_secret_retrieval_tea_218d0d
-- UFO_crashes_6e52fb_shag_harbour_mystery_c0c581
-- UFO_crashes_6e52fb_ufo_crash_fieldwork_ffb86f
-- UFO_crashes_6e52fb_ufo_crash_proof_b61bbd
-- UFO_crashes_6e52fb_ufo_debris_custody_1d0006
-- UFO_crashes_6e52fb_ufo_material_testing_840d87
-- UFO_crashes_6e52fb_ufo_rumour_chains_13f994
-- UFO_crashes_6e52fb_ufo_witness_reliabil_788484
-- UFO_crashes_6e52fb_unidentified_not_ali_becdd7
-- UFO_crashes_6e52fb_varginha_crash_story_bf9120
-- UFO_crashes_6e52fb_verifiable_wreckage_051281
+- UFO_crashes_6e52fb_kecksburg_records_79f489
+- UFO_crashes_6e52fb_meteor_fireballs_f0c023
+- UFO_crashes_6e52fb_military_secrecy_9f63a4
+- UFO_crashes_6e52fb_nasa_uap_standards_787a4c
+- UFO_crashes_6e52fb_official_reviews_5e4bdf
+- UFO_crashes_6e52fb_physical_evidence_st_c7139f
+- UFO_crashes_6e52fb_police_reports_7983df
+- UFO_crashes_6e52fb_project_mogul_01e984
+- UFO_crashes_6e52fb_radar_reflectors_f94a3c
+- UFO_crashes_6e52fb_retrieval_programs_3a2036
+- UFO_crashes_6e52fb_roswell_debris_feff4f
+- UFO_crashes_6e52fb_search_rescue_record_10893f
+- UFO_crashes_6e52fb_shag_harbour_75703f
+- UFO_crashes_6e52fb_story_growth_5f6019
+- UFO_crashes_6e52fb_ufo_not_alien_6480d8
+- UFO_crashes_6e52fb_witness_reports_78ec97
 sibling_basenames: []
 tags:
 - ufo-crashes
@@ -40,26 +40,24 @@ keywords:
 - ufo-crashes
 affiliate_category: ufo-crashes
 show_ads: true
-description: “UFO crash” usually describes an incident in which witnesses, investigators or later storytellers claim that an unidentified object struck land or water and...
-hero_summary: “UFO crash” usually describes an incident in which witnesses, investigators or later storytellers claim that an unidentified object struck land or water and was recovered, concealed or removed by authorities. The phrase does not by itself mean that an extraterrestrial spacecraft crashed.
+description: '“UFO crash” usually means more than a strange light in the sky: it means an alleged physical object came down, left debris, caused a recovery operation, or...'
+hero_summary: '“UFO crash” usually means more than a strange light in the sky: it means an alleged physical object came down, left debris, caused a recovery operation, or was secretly removed by authorities. The clearest answer is that no publicly available, well-substantiated case has proved the crash of an extraterrestrial craft.'
 layout: default
 permalink: /ufo-crashes/
-nav_short_title: UFO crashes
-title: UFO crashes
-title_full: UFO crashes
-display_title_short: UFO crashes
-display_title: UFO crashes
-source_count: 109
+nav_short_title: Did Any UFO Crash Really Happen?
+title: Did Any UFO Crash Really Happen?
+title_full: Did Any UFO Crash Really Happen?
+display_title_short: Did Any UFO Crash Really Happen?
+display_title: Did Any UFO Crash Really Happen?
+heading_title: Did Any UFO Crash Really Happen?
+page_heading_title: Did Any UFO Crash Really Happen?
+source_count: 95
 infographic_count: 3
 page_website_name: UFO Crashes
-page_banner_line: Evidence-led accounts of famous crash claims, witnesses, records and ordinary explanations.
+page_banner_line: Evidence-led pages on famous crash claims, missing records, and ordinary explanations.
 site_website_name: UFO Crashes
-site_banner_line: Evidence-led accounts of famous crash claims, witnesses, records and ordinary explanations.
-site_visual_identity: signal-cobalt
-site_visual_identity_confidence: high
-site_visual_motif: constellation
-site_typography_tone: technical
-site_image_description: A remote desert recovery site with scattered metallic debris, military trucks, investigators, floodlights and a bright object...
+site_banner_line: Evidence-led pages on famous crash claims, missing records, and ordinary explanations.
+site_image_description: A rural crash scene with scattered metallic debris, police vehicles, searchlights, and distant hills under a dark sky.
 output_language: English
 lang: en
 locale: en
@@ -203,23 +201,7 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
-  report_details: Report details
-  report_actions: Report actions
-  sources: sources
-  graphics: graphics
-  share_page: Share
-  copy_link: Copy link
-  download_social_image: Download image
-  cite_page: Cite page
-  print_save: Print / save
-  share_opened: Share dialog opened
-  share_unavailable: Sharing unavailable; link copied
-  social_image_downloaded: Image download started
-  link_copied: Link copied
-  citation_copied: Citation copied
-  copy_failed: Copy failed
   topics: Topics
-  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -237,313 +219,277 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-08-02 21:48:35'
+date: '2026-06-19 01:53:45'
 child_links:
-- basename: UFO_crashes_6e52fb_aircraft_accident_lo_c19ae2
-  title: Aircraft Accidents | UFO crashes
-  permalink: /aircraft-accidents/
-  short_title: Aircraft Accidents
-  heading_title: When Real Air Crashes Become UFO Legends
-- basename: UFO_crashes_6e52fb_alien_body_memories_3a62fe
-  title: Alien Bodies | UFO crashes
-  permalink: /alien-bodies/
-  short_title: Alien Bodies
-  heading_title: Why Alien Body Stories Often Arrive Late
-- basename: UFO_crashes_6e52fb_balloon_ufo_wreckage_5e56e9
-  title: Balloon Debris | UFO crashes
-  permalink: /balloon-debris/
-  short_title: Balloon Debris
-  heading_title: Why Balloon Wreckage Can Look Otherworldly
-- basename: UFO_crashes_6e52fb_major_crash_comparis_fa14b9
-  title: Case Comparison | UFO crashes
-  permalink: /case-comparison/
-  short_title: Case Comparison
-  heading_title: Which UFO Crash Cases Hold Up Best?
-- basename: UFO_crashes_6e52fb_ufo_debris_custody_1d0006
-  title: Chain of Custody | UFO crashes
-  permalink: /chain-of-custody/
-  short_title: Chain of Custody
-  heading_title: Can Alleged UFO Debris Be Traced?
-- basename: UFO_crashes_6e52fb_credible_crash_photo_6b2fab
-  title: Crash Photos | UFO crashes
-  permalink: /crash-photos/
-  short_title: Crash Photos
-  heading_title: What Makes a UFO Crash Photo Credible?
-- basename: UFO_crashes_6e52fb_emergency_response_m_c79736
-  title: Emergency Response | UFO crashes
-  permalink: /emergency-response/
-  short_title: Emergency Response
-  heading_title: Why Emergency Crews Appear in UFO Crash Stories
-- basename: UFO_crashes_6e52fb_ufo_crash_fieldwork_ffb86f
-  title: Field Protocol | UFO crashes
-  permalink: /field-protocol/
-  short_title: Field Protocol
-  heading_title: How to Document a Reported UFO Crash
-- basename: UFO_crashes_6e52fb_fireball_crash_mista_4f238a
-  title: Fireballs | UFO crashes
-  permalink: /fireballs/
-  short_title: Fireballs
-  heading_title: Why Fireballs Can Look Like UFO Crashes
-- basename: UFO_crashes_6e52fb_roswell_press_releas_22ebff
-  title: Flying Disc Headline | UFO crashes
-  permalink: /flying-disc-headline/
-  short_title: Flying Disc Headline
-  heading_title: The Headline That Made Roswell Immortal
-- basename: UFO_crashes_6e52fb_kecksburg_fireball_9211d2
+- basename: UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893
+  title: AARO | UFO crashes
+  permalink: /aaro/
+  short_title: AARO
+  heading_title: Did AARO Find Hidden Retrieval Programs?
+- basename: UFO_crashes_6e52fb_aircraft_accident_al_c21b37
+  title: Aircraft | UFO crashes
+  permalink: /aircraft/
+  short_title: Aircraft
+  heading_title: When a UFO Crash Starts as an Air Crash
+- basename: UFO_crashes_6e52fb_aurora_airship_d1e639
+  title: Aurora | UFO crashes
+  permalink: /aurora/
+  short_title: Aurora
+  heading_title: The UFO Crash Story Before UFOs
+- basename: UFO_crashes_6e52fb_balloon_misidentific_7c5cdb
+  title: Balloons | UFO crashes
+  permalink: /balloons/
+  short_title: Balloons
+  heading_title: When Balloons Look Like Spaceships
+- basename: UFO_crashes_6e52fb_alien_body_claims_816ffd
+  title: Bodies | UFO crashes
+  permalink: /bodies/
+  short_title: Bodies
+  heading_title: Where Did Alien Body Claims Come From?
+- basename: UFO_crashes_6e52fb_cold_war_tech_6ee382
+  title: Cold War Tech | UFO crashes
+  permalink: /cold-war-tech/
+  short_title: Cold War Tech
+  heading_title: Why the Cold War Fed UFO Crashes
+- basename: UFO_crashes_6e52fb_crash_sites_7788de
+  title: Crash Sites | UFO crashes
+  permalink: /crash-sites/
+  short_title: Crash Sites
+  heading_title: Can a Crash Site Prove the Story?
+- basename: UFO_crashes_6e52fb_crashes_vs_sightings_102ba4
+  title: Crashes vs Sightings | UFO crashes
+  permalink: /crashes-vs-sightings/
+  short_title: Crashes vs Sightings
+  heading_title: Why Crashes Are Different From Sightings
+- basename: UFO_crashes_6e52fb_chain_of_custody_70063d
+  title: Custody | UFO crashes
+  permalink: /custody/
+  short_title: Custody
+  heading_title: Why Chain of Custody Matters
+- basename: UFO_crashes_6e52fb_debris_testing_7087d2
+  title: Debris Tests | UFO crashes
+  permalink: /debris-tests/
+  short_title: Debris Tests
+  heading_title: Can Debris Prove a UFO Crash?
+- basename: UFO_crashes_6e52fb_evaluate_crash_claim_69323f
+  title: Evaluate Claims | UFO crashes
+  permalink: /evaluate-claims/
+  short_title: Evaluate Claims
+  heading_title: How to Judge a UFO Crash Claim
+- basename: UFO_crashes_6e52fb_physical_evidence_st_c7139f
+  title: Evidence | UFO crashes
+  permalink: /evidence/
+  short_title: Evidence
+  heading_title: What Would Prove a UFO Crash?
+- basename: UFO_crashes_6e52fb_foia_ufo_crashes_9ba906
+  title: FOIA | UFO crashes
+  permalink: /foia/
+  short_title: FOIA
+  heading_title: Can Records Requests Solve UFO Crashes?
+- basename: UFO_crashes_6e52fb_kecksburg_records_79f489
   title: Kecksburg | UFO crashes
   permalink: /kecksburg/
   short_title: Kecksburg
-  heading_title: Did Anything Actually Crash at Kecksburg?
-- basename: UFO_crashes_6e52fb_ufo_material_testing_840d87
-  title: Material Testing | UFO crashes
-  permalink: /material-testing/
-  short_title: Material Testing
-  heading_title: How Alleged UFO Metal Should Be Tested
-- basename: UFO_crashes_6e52fb_media_reshaped_cases_b339d5
-  title: Media Retellings | UFO crashes
-  permalink: /media-retellings/
-  short_title: Media Retellings
-  heading_title: How Media Changed Famous UFO Crash Stories
-- basename: UFO_crashes_6e52fb_military_secrecy_leg_998cf1
-  title: Military Secrecy | UFO crashes
-  permalink: /military-secrecy/
-  short_title: Military Secrecy
-  heading_title: How Military Secrecy Fuels UFO Crash Belief
-- basename: UFO_crashes_6e52fb_missing_ufo_records_34e877
-  title: Missing Records | UFO crashes
-  permalink: /missing-records/
-  short_title: Missing Records
-  heading_title: Do Missing Files Prove a UFO Cover Up?
-- basename: UFO_crashes_6e52fb_verifiable_wreckage_051281
-  title: Missing Wreckage | UFO crashes
-  permalink: /missing-wreckage/
-  short_title: Missing Wreckage
-  heading_title: Where Is the Verifiable UFO Wreckage?
-- basename: UFO_crashes_6e52fb_nasa_uap_evidence_4f9c9d
-  title: NASA Standard | UFO crashes
-  permalink: /nasa-standard/
-  short_title: NASA Standard
-  heading_title: What Better UFO Evidence Would Look Like
-- basename: UFO_crashes_6e52fb_official_crash_revie_0713a4
+  heading_title: What Do Missing Kecksburg Records Prove?
+- basename: UFO_crashes_6e52fb_meteor_fireballs_f0c023
+  title: Meteors | UFO crashes
+  permalink: /meteors/
+  short_title: Meteors
+  heading_title: Did a Fireball Become a Crash Story?
+- basename: UFO_crashes_6e52fb_destroyed_records_19b147
+  title: Missing Files | UFO crashes
+  permalink: /missing-files/
+  short_title: Missing Files
+  heading_title: Do Missing Files Prove a Cover Up?
+- basename: UFO_crashes_6e52fb_nasa_uap_standards_787a4c
+  title: NASA Standards | UFO crashes
+  permalink: /nasa-standards/
+  short_title: NASA Standards
+  heading_title: What NASA Says Good UAP Evidence Needs
+- basename: UFO_crashes_6e52fb_official_reviews_5e4bdf
   title: Official Reviews | UFO crashes
   permalink: /official-reviews/
   short_title: Official Reviews
-  heading_title: What Official UFO Crash Reviews Actually Found
-- basename: UFO_crashes_6e52fb_project_mogul_secrec_deaa3f
+  heading_title: What Official Reviews Actually Found
+- basename: UFO_crashes_6e52fb_police_reports_7983df
+  title: Police Reports | UFO crashes
+  permalink: /police-reports/
+  short_title: Police Reports
+  heading_title: What Police Reports Can and Cannot Prove
+- basename: UFO_crashes_6e52fb_project_mogul_01e984
   title: Project Mogul | UFO crashes
   permalink: /project-mogul/
   short_title: Project Mogul
-  heading_title: The Secret Project Behind Roswell's Confusion
-- basename: UFO_crashes_6e52fb_ufo_crash_proof_b61bbd
-  title: Proof Standard | UFO crashes
-  permalink: /proof-standard/
-  short_title: Proof Standard
-  heading_title: What Would Prove a UFO Crash?
-- basename: UFO_crashes_6e52fb_radar_reflector_debr_47b94a
-  title: Radar Targets | UFO crashes
-  permalink: /radar-targets/
-  short_title: Radar Targets
-  heading_title: The Strange Devices Found in Balloon Debris
-- basename: UFO_crashes_6e52fb_records_vs_recollect_cc1781
-  title: Records vs Memory | UFO crashes
-  permalink: /records-vs-memory/
-  short_title: Records vs Memory
-  heading_title: 'Which Matters More: Records or Recollections?'
-- basename: UFO_crashes_6e52fb_secret_retrieval_tea_218d0d
-  title: Retrieval Teams | UFO crashes
-  permalink: /retrieval-teams/
-  short_title: Retrieval Teams
-  heading_title: Are Secret UFO Retrieval Teams Real?
-- basename: UFO_crashes_6e52fb_roswell_project_mogu_55e357
+  heading_title: Could Secret Balloons Explain Roswell?
+- basename: UFO_crashes_6e52fb_radar_reflectors_f94a3c
+  title: Radar Debris | UFO crashes
+  permalink: /radar-debris/
+  short_title: Radar Debris
+  heading_title: Why Ordinary Debris Can Look Alien
+- basename: UFO_crashes_6e52fb_retrieval_programs_3a2036
+  title: Retrieval Claims | UFO crashes
+  permalink: /retrieval-claims/
+  short_title: Retrieval Claims
+  heading_title: How Hidden Retrieval Claims Work
+- basename: UFO_crashes_6e52fb_roswell_debris_feff4f
   title: Roswell | UFO crashes
   permalink: /roswell/
   short_title: Roswell
-  heading_title: Why Roswell Still Defines UFO Crash Culture
-- basename: UFO_crashes_6e52fb_ufo_rumour_chains_13f994
-  title: Rumour Chains | UFO crashes
-  permalink: /rumour-chains/
-  short_title: Rumour Chains
-  heading_title: How Separate Events Become One UFO Story
-- basename: UFO_crashes_6e52fb_satellite_debris_cas_c8bb69
-  title: Satellite Debris | UFO crashes
-  permalink: /satellite-debris/
-  short_title: Satellite Debris
-  heading_title: When Space Junk Looks Like a Crashed UFO
-- basename: UFO_crashes_6e52fb_shag_harbour_mystery_c0c581
+  heading_title: What Really Crashed Near Roswell?
+- basename: UFO_crashes_6e52fb_search_rescue_record_10893f
+  title: Search Trails | UFO crashes
+  permalink: /search-trails/
+  short_title: Search Trails
+  heading_title: What Search Operations Can Tell US
+- basename: UFO_crashes_6e52fb_military_secrecy_9f63a4
+  title: Secrecy | UFO crashes
+  permalink: /secrecy/
+  short_title: Secrecy
+  heading_title: Why Secrecy Makes Crashes Plausible
+- basename: UFO_crashes_6e52fb_shag_harbour_75703f
   title: Shag Harbour | UFO crashes
   permalink: /shag-harbour/
   short_title: Shag Harbour
-  heading_title: What Entered the Water at Shag Harbour?
-- basename: UFO_crashes_6e52fb_unidentified_not_ali_becdd7
-  title: Unidentified | UFO crashes
-  permalink: /unidentified/
-  short_title: Unidentified
-  heading_title: Why Unexplained Does Not Automatically Mean Alien
-- basename: UFO_crashes_6e52fb_varginha_crash_story_bf9120
-  title: Varginha | UFO crashes
-  permalink: /varginha/
-  short_title: Varginha
-  heading_title: How Varginha Became a UFO Crash Story
-- basename: UFO_crashes_6e52fb_ufo_witness_reliabil_788484
+  heading_title: Why Shag Harbour Still Feels Unresolved
+- basename: UFO_crashes_6e52fb_story_growth_5f6019
+  title: Story Growth | UFO crashes
+  permalink: /story-growth/
+  short_title: Story Growth
+  heading_title: Why UFO Crash Stories Grow
+- basename: UFO_crashes_6e52fb_crash_folklore_touri_50ae99
+  title: Tourism | UFO crashes
+  permalink: /tourism/
+  short_title: Tourism
+  heading_title: How Crash Stories Become Local Legends
+- basename: UFO_crashes_6e52fb_ufo_not_alien_6480d8
+  title: UFO Meaning | UFO crashes
+  permalink: /ufo-meaning/
+  short_title: UFO Meaning
+  heading_title: Why UFO Does Not Mean Alien
+- basename: UFO_crashes_6e52fb_witness_reports_78ec97
   title: Witnesses | UFO crashes
   permalink: /witnesses/
   short_title: Witnesses
-  heading_title: How Reliable Are UFO Crash Witnesses?
-has_inline_related_reports_panel: true
+  heading_title: How Much Can Witnesses Prove?
 header:
-  og_image: /assets/images/UFO_crashes_6e52fb-photo1-social-card.jpg
-  preview_image: /assets/images/UFO_crashes_6e52fb-photo1.webp
-share_hook: “UFO crash” usually describes an incident in which witnesses, investigators or later storytellers claim that an unidentified object struck land or...
-image: /assets/images/UFO_crashes_6e52fb-photo1-social-card.jpg
+  og_image: /assets/images/UFO_crashes_6e52fb-overview-social.jpg
+  preview_image: /assets/images/UFO_crashes_6e52fb-overview.webp
+image: /assets/images/UFO_crashes_6e52fb-overview-social.jpg
 ---
 
-## Introduction
+## What counts as a UFO crash?
 
-“UFO crash” usually describes an incident in which [witnesses]({{ 'witnesses/' | relative_url }}), investigators or later storytellers claim that an [unidentified]({{ 'unidentified/' | relative_url }}) object struck land or water and was recovered, concealed or removed by authorities. The phrase does **not** by itself mean that an extraterrestrial spacecraft crashed. “Unidentified” records a gap in identification, not a conclusion about origin.
+A UFO crash claim is stronger than a sighting claim because it implies recoverable evidence. A light, [aircraft]({{ 'aircraft/' | relative_url }})-like object or unexplained radar return can remain ambiguous; a crash should, in principle, leave wreckage, impact marks, bodies, contamination, records, photographs, [chain-of-custody]({{ 'custody/' | relative_url }}) documentation, or at least a clear rescue-and-recovery trail. That is why crash stories are central to UFO culture: they promise the one thing ordinary sightings often lack, a tangible artefact.
 
+
+<img src="{{ "/assets/images/UFO_crashes_6e52fb-overview.webp" | relative_url }}" alt="Overview image for UFO crashes" loading="eager" decoding="sync" fetchpriority="high">
+The phrase “UFO” does not automatically mean “alien spacecraft”. It means an observed object or event has not been identified at the time of reporting. Modern agencies often use “UAP”, or unidentified anomalous phenomena, a broader term that can include aerial, space, transmedium or submerged reports. NASA’s 2023 UAP study stressed that most reports are limited by poor data, [missing metadata]({{ 'metadata-gaps/' | relative_url }}) and lack of calibrated sensor evidence; it also said there is no conclusive evidence in peer-reviewed literature that UAP have an extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+
+For a crash case to become genuinely persuasive, it would need more than dramatic testimony. The useful questions are:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Was there a documented search, rescue or recovery operation?
+* Were physical materials recovered, and can they be independently tested?
+* Are the original records contemporary, or did the story develop decades later?
+* Are prosaic explanations such as balloons, aircraft, satellites, meteors, hoaxes or military tests consistent with the evidence?
+* Do the most extraordinary claims depend on missing documents, anonymous sources or late recollections?
+
+</div>
+
+## Roswell remains the template — and the warning
+
+Roswell is the most famous UFO crash story because it contains the essential ingredients: a 1947 military press release saying a “flying disc” had been recovered, a rapid correction to a balloon explanation, later witnesses, claims of alien bodies, missing records and decades of suspicion. Yet the best-documented official record does not support a recovered alien craft.
+
+The US Government Accountability Office reviewed classified and unclassified records from multiple agencies in response to concerns that the Department of Defense had not released all available information. It found two 1947 records directly concerning the Roswell event: a unit history noting that the “flying disc” turned out to be a radar-tracking balloon, and an FBI teletype reporting that the recovered object resembled a high-altitude weather balloon with a radar reflector. The GAO also found that some Roswell Army Air Field records had been destroyed, which understandably helped fuel suspicion, but it did not identify records showing a crashed extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
+
+The US Air Force later argued that the debris was associated with Project Mogul, a classified balloon programme designed to detect Soviet nuclear tests acoustically. This explanation matters because it accounts for both halves of the Roswell paradox: why the first public explanation looked evasive, and why unusual lightweight debris might have been recovered without being alien. A secret Cold War balloon programme could produce secrecy, confusion and a misleading “weather balloon” explanation without requiring a spacecraft crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf)
+
+Roswell also shows how crash narratives can grow over time. The earliest documentary core concerns debris; later accounts added bodies, autopsies, second [crash sites]({{ 'crash-sites/' | relative_url }}) and hangar legends. The Bureau of Land Management now even describes an “Alleged UFO Skip Site” near Corona, New Mexico, as a place some people believe an alien craft crashed, while directing readers to the Air Force report rather than endorsing the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blm.gov/visit/alleged-ufo-skip-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blm.gov">[Bureau of Land Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blm.gov</span><span class="citation-popover-title">Bureau of Land Management Alleged UFO Skip Site</span><span class="citation-popover-snippet">Bureau of Land Management Alleged UFO Skip Site</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb-Illustration-1-dark.svg" | relative_url }}" alt="UFO crashes illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The best-known crash cases do not all fail in the same way
 
-After decades of investigations, document releases, witness interviews and laboratory tests, no alleged UFO crash has produced publicly verifiable evidence of an extraterrestrial vehicle or its occupants. The strongest cases remain interesting because they combine real events—fallen debris, atmospheric [fireballs]({{ 'fireballs/' | relative_url }}), military searches and official secrecy—with disputed memories and missing information. [Roswell]({{ 'roswell/' | relative_url }}) is the defining example: something genuinely was recovered in New Mexico in 1947, but the documentary and technical evidence points to a classified balloon project rather than an alien craft. Other celebrated cases contain even less recoverable physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
+Not every UFO crash story is a Roswell copy. Some are folklore, some are documented emergency responses to something unknown, and some are later allegations about classified retrieval programmes. Treating them all as identical makes the subject less clear, not more.
 
-## What would count as proof of a UFO crash?
+### Shag Harbour: a real search for an unknown object
 
-A convincing crash case would require more than sincere testimony, an unexplained light or a story about military vehicles. It would need evidence that independent specialists could inspect and reproduce: material with a secure history from the recovery site, precise photographs and measurements, authenticated records created at the time, and test results excluding known terrestrial technologies or natural objects.
+The 1967 Shag Harbour incident in Nova Scotia is one of the more interesting cases because it involved witnesses who thought an aircraft had gone into the water, followed by official attention. Library and Archives Canada describes it as Canada’s most famous UFO incident and notes that it was investigated by the Royal Canadian Mounted Police and Canadian Forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
 
+The case is often compelling to readers because it has a grounded starting point: people reported something descending into or near the harbour, authorities treated it seriously enough to investigate, and no conventional aircraft wreckage was found. That combination leaves room for an unresolved event without proving an alien object. The important distinction is that “unidentified after a search” is not the same as “confirmed non-human craft recovered”.
 
+### Kecksburg: the missing-records problem
 
-<!-- HIERARCHY_NAV_START -->
-<aside class="related-reports" aria-label="Related pages">
-<h2>Follow this branch</h2>
-<div class="related-reports-grid">
-<section class="related-reports-section related-reports-section-closest">
-<h3>Closest pages</h3>
-<ul>
-<li><a href="{{ '/flying-disc-headline/' | relative_url }}"><span class="article-branch-link-short">Flying Disc Headline</span><span class="article-branch-link-heading">The Headline That Made Roswell Immortal</span></a></li>
-<li><a href="{{ '/aircraft-accidents/' | relative_url }}"><span class="article-branch-link-short">Aircraft Accidents</span><span class="article-branch-link-heading">When Real Air Crashes Become UFO Legends</span></a></li>
-<li><a href="{{ '/emergency-response/' | relative_url }}"><span class="article-branch-link-short">Emergency Response</span><span class="article-branch-link-heading">Why Emergency Crews Appear in UFO Crash Stories</span></a></li>
-<li><a href="{{ '/records-vs-memory/' | relative_url }}"><span class="article-branch-link-short">Records vs Memory</span><span class="article-branch-link-heading">Which Matters More: Records or Recollections?</span></a></li>
-<li><a href="{{ '/chain-of-custody/' | relative_url }}"><span class="article-branch-link-short">Chain of Custody</span><span class="article-branch-link-heading">Can Alleged UFO Debris Be Traced?</span></a></li>
-</ul>
-</section>
-</div>
-</aside>
-<!-- HIERARCHY_NAV_END -->
+The 1965 Kecksburg, Pennsylvania case is famous for reports of a fireball, claims that an object came down in woodland, and stories of a military retrieval. Its documentary afterlife became almost as important as the original event. In 2007, a Freedom of Information Act lawsuit settlement required NASA to search its files for records concerning the 9 December 1965 incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-snippet">Open source on rcfp.org.</span></span></span>
 
-This standard matters because crash narratives often develop backwards. A fireball is reported; emergency or military personnel arrive; rumours circulate; and years later witnesses connect separate events into a story about a recovered spacecraft. Each component may be genuine without the extraterrestrial conclusion being correct.
-
-The central evidential questions are therefore:
-
-* **Was there a physical impact?** A light apparently descending behind terrain can be many kilometres away and may never reach the ground nearby.
-* **Was any debris documented at the scene?** Material that emerges decades later without a traceable [chain of custody]({{ 'chain-of-custody/' | relative_url }}) cannot reliably be tied to a particular incident.
-* **Were the records contemporary?** Notes, photographs and reports produced immediately carry more weight than recollections recorded after repeated media exposure.
-* **Can ordinary causes be excluded?** Balloons, aircraft, rockets, satellites, meteors and experimental equipment can all create unfamiliar debris or unusual [emergency responses]({{ 'emergency-response/' | relative_url }}).
-* **Is “unexplained” being mistaken for “alien”?** Missing data may prevent identification without making an extraordinary explanation more likely.
-
-NASA’s independent UAP study concluded that the available literature contains no conclusive evidence of extraterrestrial UAP and emphasised that poor, inconsistent data are a major obstacle. Its recommended approach relies on calibrated sensors, multiple observations and transparent analysis rather than anecdote alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+Kecksburg illustrates a recurring problem in UFO crash claims: absence of records can be interpreted in two opposite ways. Sceptics may see it as a sign that no extraordinary recovery occurred; believers may see it as evidence that the most important records were withheld, lost or destroyed. As a matter of evidence, however, a missing or incomplete paper trail cannot by itself prove a recovered spacecraft. It can justify further archival scrutiny, but it does not supply the wreckage.
 
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPbDa5D7IUE" title="The Shag Harbour UFO Incident - Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Incident - Full Documentary</a></p><p class="youtube-embed-meta">Channel: Ocean Digital Entertainment &middot; Views: 530.0K &middot; Uploaded: September 2015 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPbDa5D7IUE">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FB6FMi7Lpfg" title="Exposing The Truth Behind 1947 UFO Incident! | Expedition Unknown: Hunt For Extraterrestrials S1 E4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 18:38">18:38</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FB6FMi7Lpfg" target="_blank" rel="noopener noreferrer">Exposing The Truth Behind 1947 UFO Incident! | Expedition Unknown: Hunt For Extraterrestrials S1 E4</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 64.3K &middot; Uploaded: June 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FB6FMi7Lpfg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FB6FMi7Lpfg">Open on YouTube</a></p></div></div></div>
+### Aurora, Texas: folklore before the flying-saucer era
 
-## Roswell: a real recovery transformed into an alien legend
+The alleged 1897 Aurora, Texas crash predates the modern flying-saucer era. It originated in a newspaper account during the wave of late nineteenth-century “airship” stories and later became a local legend involving a dead pilot supposedly “not of this world”. The case is valuable less as evidence for alien technology than as evidence that crash stories existed before Roswell and before the modern vocabulary of UFOs.
 
-In early July 1947, rancher W. W. “Mack” Brazel reported unusual debris on land north-west of Roswell, New Mexico. Personnel from Roswell Army Air Field collected it. On 8 July, the base issued a press release saying that it had obtained a “flying disc”, but senior officers rapidly replaced that account with an explanation involving a weather balloon. An FBI teletype from the same day described an object resembling a high-altitude balloon with an attached radar reflector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Roswell UFOOn</span><span class="citation-popover-snippet">Roswell UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weath...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+Aurora’s weakness is also its significance: it rests on a colourful old report and community legend rather than a modern chain of evidence. It shows how local humour, newspaper culture, civic identity and later UFO enthusiasm can preserve a crash story even when its evidential base is thin.
 
-The abrupt reversal created the enduring suspicion that the military had briefly revealed the truth and then suppressed it. Yet the initial use of “flying disc” was not accompanied by a technical finding that the wreckage was a manufactured spacecraft. The photographs released at the time show foil-like material, rubber and structural sticks rather than an intact vehicle or an engine.
+## Why crash-retrieval claims keep returning
 
-The later Air Force investigation linked the debris to **Project Mogul**, a classified programme using long trains of balloons, radar reflectors and acoustic equipment in an attempt to detect Soviet nuclear tests. A Mogul balloon train launched from Alamogordo in June 1947 was lost while travelling towards the region of Brazel’s ranch. The unusual combination of materials, the project’s secrecy and the inability of local personnel to discuss its true purpose help explain both the confusion and the misleading “weather balloon” cover story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
+Crash-[retrieval claims]({{ 'retrieval-claims/' | relative_url }}) persist because they sit at the intersection of three real things: governments do keep secrets, military technology does crash, and witnesses sometimes report sincere experiences they cannot explain. None of those facts proves alien recovery, but they make the idea culturally durable.
 
-Claims that [alien bodies]({{ 'alien-bodies/' | relative_url }}) were recovered entered the Roswell story much later. The earliest public reports concerned debris, not occupants. Accounts of bodies, separate crash sites and secret autopsies emerged principally through interviews conducted decades afterwards, and they conflict over dates, locations, numbers and descriptions. The Air Force’s 1997 follow-up argued that some later memories incorporated 1950s high-altitude dummy recoveries and unrelated military accidents. That explanation does not neatly match every story, especially because the dummy tests occurred after 1947, but the chronological problem also weakens the claim that the later body narratives are straightforward memories of the original event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">Open source on defense.gov.</span></span></span>
+The Cold War created unusually fertile ground. Secret balloons, reconnaissance platforms, missiles, aircraft tests, nuclear-site security and compartmented programmes all generated secrecy and confusion. AARO’s historical review found that earlier government investigations often focused less on aliens than on defence readiness, Soviet technology, public panic and overloaded reporting systems. It also noted that lack of high-quality data has plagued UAP investigations across decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-A 1995 inquiry by the US Government Accountability Office found that some administrative records from the Roswell base had been destroyed without a clear explanation. This is a legitimate archival gap, but the inquiry did not uncover documentation of an alien spacecraft, bodies or a clandestine recovery operation. The National Archives likewise reports that its Project Blue Book holdings contain no Roswell case file, partly because the programme did not begin until years after the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[Government Accountability Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">Government Accountability OfficeNSIAD-95-187 Government Records28 Jul 1995 — Current and past records management regulations. Report of A...</span></span></span>
+Recent public interest has been sharpened by whistleblower-style claims. In 2023, former intelligence official David Grusch told Congress he had been informed of a multi-decade UAP crash-retrieval and reverse-engineering programme, including claims involving “non-human” material. Reporting at the time made clear that the testimony was explosive but did not publicly produce verifiable physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Whistleblower says US concealing &#x27;multi-decade&#x27; UFO</span><span class="citation-popover-snippet">AP News Whistleblower says US concealing &#x27;multi-decade&#x27; UFO</span></span></span>
 
-Roswell remains compelling because the military really did conceal something: the purpose of Project Mogul. That demonstrated secrecy makes broader suspicion understandable, but it does not establish the existence of a second, extraterrestrial secret.
-
-
-
-<figure class="archive-evidence-panel"><div class="archive-evidence-kicker">Archive evidence</div><img src="{{ "/assets/images/UFO_crashes_6e52fb-photo1.webp" | relative_url }}" alt="Marcel-roswell-debris 0 Untitled" loading="lazy" decoding="async"><figcaption><strong>Marcel-roswell-debris 0</strong><span class="archive-evidence-meta">Fort Worth Star-Telegram &middot; Wikimedia Commons &middot; 1947-07-08 &middot; 104598067</span><span class="archive-evidence-explanation">Shows Jesse Marcel with the Roswell debris, an iconic primary image directly tied to the defining UFO‑crash case referenced in the article.</span><span class="archive-evidence-rights">Public domain &middot;<a class="archive-evidence-source" href="https://commons.wikimedia.org/wiki/File:Marcel-roswell-debris_0.jpg" target="_blank" rel="noopener noreferrer">View original record</a></span></figcaption></figure>
-
-## Kecksburg and Shag Harbour: witnessed descents without recovered craft
-
-The Kecksburg incident began on 9 December 1965, when a brilliant fireball crossed parts of Canada and the United States. Residents near Kecksburg, Pennsylvania, reported that something descended into woodland, and later accounts described military personnel securing the area and removing an acorn-shaped object.
-
-Contemporary astronomers regarded the fireball as a meteor. Police and Air Force searches were reported as finding nothing, while later speculation proposed satellite debris, particularly the Soviet probe Kosmos 96. Orbital analyses have not firmly connected that spacecraft to Kecksburg. NASA further complicated the story by making inconsistent statements about whether fragments had once been examined and by acknowledging that potentially relevant records could not be found. A Freedom of Information lawsuit led the agency to conduct a renewed records search, but it did not produce a verified recovered object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
-
-Kecksburg therefore illustrates an important distinction: official uncertainty and poor record-keeping can justify continued historical investigation, but they do not substitute for physical evidence. The claimed object has never been made available, no authenticated recovery photographs have emerged, and the reported flight path of a bright fireball is compatible with a natural atmospheric event.
-
-Shag Harbour, Nova Scotia, presents a different pattern. On 4 October 1967, multiple witnesses saw lights apparently enter the water. The Royal Canadian Mounted Police, Coast Guard and Canadian military investigated after initially treating the report as a possible aircraft crash. A search found unusual foam but no wreckage, casualties or identifiable aircraft. Canadian records continued to describe the object as unidentified because the search failed to determine its cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
-
-Later books and interviews added claims about naval divers, objects moving underwater and a prolonged secret operation. Some of these stories appear to blend Shag Harbour with separate naval exercises or incidents. The surviving official record supports a genuine report and genuine search, but not the recovery of an extraterrestrial craft. “Unidentified” is the accurate outcome because the evidence was insufficient for a positive identification.
-
+AARO later assessed related historical allegations, including claims of reverse-engineering programmes and special-access compartments. Its 2024 historical report found no empirical evidence that the US government or private companies had reverse-engineered extraterrestrial technology, and it described KONA BLUE as a proposed programme that was not approved or formally established, not proof that alien craft or bodies had been collected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb-Illustration-2-dark.svg" | relative_url }}" alt="UFO crashes illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Physical evidence is the decisive gap
 
-## Varginha: how a creature report became a crash story
+The strongest UFO crash claim would be transformed by independently verifiable material: a component with a documented recovery chain, unusual composition, reproducible properties, and no plausible terrestrial origin. That is exactly why alleged debris attracts so much attention.
 
-The 1996 Varginha incident in Brazil is frequently labelled a UFO crash, although its best-known original element was not recovered wreckage but a reported creature sighting. Three young women said they encountered a strange, crouching being with reddish eyes and unusual skin. Rumours then connected the sighting to military vehicles, hospital activity, animal deaths, the death of a police officer and an alleged crashed craft.
+AARO has publicly addressed one such material claim involving a magnesium alloy specimen alleged to have come from a crashed extraterrestrial vehicle in 1947 and to possess extraordinary properties. AARO says it contracted Oak Ridge National Laboratory to analyse the specimen’s elemental and structural characteristics. The public framing is important: the claim was extraordinary, but the testing was aimed at ordinary questions of composition, manufacturing and provenance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records</span></span></span>
 
-Brazilian military inquiries offered [ordinary explanations]({{ 'ordinary-explanations/' | relative_url }}) for several components. The creature was said to have been a local man who was dirty, wet and crouching during bad weather; military vehicle movements were attributed to routine maintenance and transport. Supporters reject those explanations and continue to cite witnesses who reported unusual beings or official activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Varginha_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Varginha UFO incident</span><span class="citation-popover-snippet">Varginha UFO incident</span></span></span>
-
-What remains absent is decisive crash evidence. No publicly authenticated wreckage, landing damage, biological specimen, contemporary recovery photograph or laboratory report has demonstrated that a non-human vehicle came down near Varginha. The case shows how a cluster of striking but separable events can become a unified narrative. Once the crash hypothesis is adopted, an ambulance becomes transport for a body, a military convoy becomes a retrieval team and an unrelated death becomes evidence of contamination or silencing.
-
-The witnesses’ experiences should not be dismissed merely because the extraterrestrial interpretation is unsupported. They may accurately remember being frightened by something they could not identify. The evidential error occurs when uncertainty about that encounter is treated as confirmation of a much larger recovery operation.
-
-## Secret retrieval programmes: allegations versus inspectable evidence
-
-Modern debate has shifted from individual crash sites to claims that governments have operated long-running programmes to recover and reverse-engineer “non-human” technology. Former US intelligence official David Grusch and other witnesses have made such allegations publicly and before Congress, often saying that classified restrictions prevent them from presenting details openly. Congressional interest is legitimate because hidden programmes, misused funds or unlawful withholding from oversight would be serious matters even if the recovered technology were entirely terrestrial. Public hearings, however, have so far produced allegations rather than hardware, authenticated imagery or testable biological evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
-
-The Pentagon’s All-domain Anomaly Resolution Office, or AARO, reviewed historical records, interviewed government and contractor personnel and investigated named programmes. Its 2024 historical report said it found no empirical evidence that any US investigation had confirmed extraterrestrial technology, recovered beings or an operational reverse-engineering programme. It found that some stories referred to real classified projects whose purposes had been misunderstood or conflated with UFO claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
-
-One example was **KONA BLUE**, a proposed special-access programme presented as a mechanism for gathering alleged anomalous materials and information. AARO found that the proposal was not approved, did not receive the claimed material and never became the functioning retrieval programme later described by some witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records</span></span></span>
-
-Another test involved a metal sample promoted as possible Roswell debris. According to reporting on the investigation, Oak Ridge National Laboratory found it to be an earthly magnesium alloy whose characteristics were compatible with mid-twentieth-century manufacturing, not evidence of exotic engineering or antigravity properties. The sample’s uncertain chain of custody had already made its connection to Roswell doubtful; the laboratory findings further weakened the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Kirkpatrick&#x27;s investigation unearthed a mix of fringe science, conspiracy theories, and shadowy government projects involving figures lik...</span></span></span>
-
-AARO’s conclusions are not beyond criticism. The office operates inside the Department of Defense, interviews may depend on access and cooperation, and classified compartments can complicate any historical review. Its report also cannot prove that no undiscovered evidence exists anywhere. What it can establish is narrower but important: after pursuing the programmes, companies, individuals and materials identified to it, the office reported finding no verifiable extraterrestrial technology.
+This is where many crash stories weaken. Testimony may be sincere, documents may be incomplete, and old events may remain intriguing, but science cannot confirm an extraterrestrial crash from narrative force alone. NASA’s UAP study made the broader point plainly: eyewitness reports can be interesting and compelling, but without reproducible and calibrated data they usually cannot establish what a phenomenon was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l9mSG8gY2Rs" title="Shag Harbour UFO “Crash,” 1967" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l9mSG8gY2Rs" target="_blank" rel="noopener noreferrer">Shag Harbour UFO “Crash,” 1967</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 77.6K &middot; Uploaded: April 2025 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l9mSG8gY2Rs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l9mSG8gY2Rs">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPbDa5D7IUE" title="The Shag Harbour UFO Incident - Full Documentary" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 47:59">47:59</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Incident - Full Documentary</a></p><p class="youtube-embed-meta">Channel: Ocean Digital Entertainment &middot; Views: 530.1K &middot; Uploaded: September 2015 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPbDa5D7IUE">Open on YouTube</a></p></div></div></div>
+## Official scepticism does not mean every witness is lying
 
-## Why crash stories survive ordinary explanations
+A fair reading of UFO crash cases does not require assuming that all witnesses are hoaxers. People can misperceive distance, size, speed and altitude, especially at night or during brief events. A meteor can look like an object descending nearby. A balloon train, radar reflector, aircraft debris or satellite re-entry can seem extraordinary to observers who lack context. Military secrecy can then make ordinary explanations look suspicious.
 
-UFO crash narratives persist partly because they often begin with events that are genuinely unusual. A classified balloon is not an invented explanation when documents, flight records and period technology support it. A meteor bright enough to trigger emergency calls is not imaginary. A military response to a possible aircraft impact is exactly what authorities should undertake. The later myth grows from ambiguity surrounding those real events.
+Project Blue Book, the US Air Force’s long-running UFO investigation, concluded that no evaluated UFO report showed a threat to national security, no “unidentified” sighting represented technology beyond modern scientific knowledge, and no unidentified sighting was shown to be an extraterrestrial vehicle. Those conclusions do not mean every case was perfectly solved; they mean the Air Force did not find evidence that the unidentified cases required alien spacecraft as an explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-Several recurring forces keep the stories alive:
+NASA’s position is similar but more modern in tone. It does not treat all UAP reports as nonsense; it argues that better data, standardised reporting and scientific methods are needed. Its report also warns against making extraterrestrial origin the first explanation rather than the last resort after other possibilities have been ruled out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-**Secrecy creates an evidential vacuum.** Cold War programmes were routinely concealed through incomplete or misleading public explanations. Even when the hidden activity was terrestrial, later disclosure teaches the public that officials were not candid.
 
-**Memories change as stories circulate.** Witnesses can be sincere while incorporating later information, merging incidents or becoming more confident over time. Decades-old recollections are especially vulnerable when witnesses have encountered books, documentaries and repeated interviews.
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RN-Purf4UXE" title="LIVE: Lawmakers, whistleblower call for release of UFO records" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RN-Purf4UXE" target="_blank" rel="noopener noreferrer">LIVE: Lawmakers, whistleblower call for release of UFO records</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 26.6K &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RN-Purf4UXE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RN-Purf4UXE">Open on YouTube</a></p></div></div></div>
 
-**Missing records appear more meaningful than they are.** Lost files may result from poor retention, routine destruction or institutional disorganisation. They can also conceal misconduct. Without additional evidence, the absence itself cannot identify what the records contained.
+## A practical credibility scale for UFO crash stories
 
-**The alien hypothesis absorbs contradictions.** Conflicting official statements, lack of debris and inconsistent witnesses can all be reinterpreted as signs of an exceptionally effective cover-up. A claim that explains both the presence and absence of evidence becomes difficult to falsify.
+The most useful way to assess a UFO crash claim is not to ask whether it sounds exciting, but what kind of evidence it actually contains.
 
-**Unresolved cases are confused with extraordinary cases.** Investigators may leave an incident open because the available information is too sparse, not because sensors recorded impossible technology. AARO’s published case material includes unresolved reports alongside others identified as balloons or non-anomalous objects, demonstrating that “unresolved” is an administrative status rather than a finding of extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+**Highest value:** contemporaneous records, multiple independent witnesses, documented emergency response, recoverable physical material, laboratory testing, and a clear chain of custody.
 
+**Moderate value:** credible witnesses and official interest, but no recovered object or no publicly available material evidence. Shag Harbour fits this broad category: interesting, officially investigated, but not confirmed as a recovered craft.
+
+**Low value:** decades-later recollections, anonymous sources, alleged missing files, unsupported claims of bodies, or stories that become more elaborate over time. These can be culturally important, but they are weak as proof.
+
+**Very low value:** hoaxes, [tourism]({{ 'tourism/' | relative_url }}) legends, unverifiable folklore, or claims that depend entirely on secret evidence that no independent party can examine.
+
+Using that scale, Roswell remains historically central but officially explained as balloon-related debris; Shag Harbour remains a serious unresolved incident without proof of a craft; Kecksburg remains an archival and testimony dispute; Aurora is best treated as folklore; and modern retrieval claims remain unproven unless physical evidence or verifiable records emerge.
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb-Illustration-3-dark.svg" | relative_url }}" alt="UFO crashes illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What would change the assessment?
 
-## The most defensible conclusion
+The UFO crash debate would change dramatically if a government, laboratory, court process, archive or whistleblower produced evidence that could be independently tested and traced. The decisive material would not need to look like science fiction. A small component could matter if it had a reliable recovery record and properties that could not be explained by known terrestrial manufacturing, contamination, mislabelling or classified human technology.
 
-
-<div class="content-callout content-callout--key content-callout--takeaway" markdown="1">
-
-The historical record supports the existence of **UFO crash reports**, emergency searches and secret government projects. It does not currently support the stronger assertion that an extraterrestrial craft has been recovered.
-
-</div>
-
-Roswell has the most substantial documentary trail, but that trail leads towards Project Mogul. Kecksburg began with a widely observed fireball yet lacks verified wreckage. Shag Harbour documents an unexplained apparent water impact but no recovered vehicle. Varginha rests on witness reports and a later web of associations rather than traceable crash material. Contemporary retrieval-programme allegations remain consequential subjects for oversight, but public evidence has not progressed from testimony to independently testable proof.
-
-The position best matched to the evidence is therefore neither automatic belief nor blanket ridicule. Some incidents remain incompletely explained, and governments should preserve records, permit lawful oversight and investigate aviation hazards without stigma. At the same time, an unexplained event is not evidence of an alien crash unless the physical and documentary record can survive independent examination.
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
-
+Short of that, the responsible conclusion is restrained. UFO crash stories are worth studying because they reveal how governments handle uncertainty, how witnesses interpret frightening events, how secrecy breeds suspicion, and how folklore forms around gaps in the record. They are not, on the public evidence available, proof that alien spacecraft have crashed on Earth.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -552,21 +498,21 @@ The position best matched to the evidence is therefore neither automatic belief 
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to UFO crashes. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to Did Any UFO Crash Really Happen?. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
-<p class="fr-book-author">By Joseph Allen Hynek</p>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-<p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
+<p class="fr-book-desc">Broad overview of UFO reports, investigations, and evidence claims, including crash-related discussions.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -574,16 +520,16 @@ The position best matched to the evidence is therefore neither automatic belief 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
-<p class="fr-book-author">By Garrett M. Graff</p>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-<p class="fr-book-desc">&quot;The full story of our national obsession with UFOs--and the covert, decades-long search by scientists, the United States military, and t...</p>
+<p class="fr-book-desc">Provides context on official investigations into UFO reports and alleged physical evidence.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -591,16 +537,16 @@ The position best matched to the evidence is therefore neither automatic belief 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+<a href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
-<p class="fr-book-author">By Philip J. Klass</p>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-<p class="fr-book-desc">Analyzing several UFO cases, the author exposes the myth of extraterrestrial visitors to earth.</p>
+<p class="fr-book-desc">Explores modern UFO culture and belief systems surrounding crash-retrieval stories.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -608,16 +554,16 @@ The position best matched to the evidence is therefore neither automatic belief 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World: Science as a Candle in the Dark on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World: Science as a Candle in the Dark" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World: Science as a Candle in the Dark">The Demon-Haunted World: Science as a Candle in the Dark</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
 </h4>
-<p class="fr-book-author">By Carl Sagan</p>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • From the renowned astronomer and author of Cosmos comes a “powerful [and] stirring defense of informed ration...</p>
+<p class="fr-book-desc">Evaluates physical evidence claims, including cases often cited in crash narratives.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -625,7 +571,7 @@ The position best matched to the evidence is therefore neither automatic belief 
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
@@ -638,7 +584,7 @@ The position best matched to the evidence is therefore neither automatic belief 
 <p class="fr-section-kicker">eBay marketplace picks</p>
 <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
 </div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
 <div class="fr-ebay-market-toolbar">
 <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -659,75 +605,74 @@ The position best matched to the evidence is therefore neither automatic belief 
 </div>
 
 <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd" target="_blank" rel="sponsored noopener noreferrer">UFO poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
 <div class="fr-books-grid">
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235"><img src="{{ '/assets/images/marketplace-covers/eb003ae46dc2da753565.jpg' | relative_url }}" alt="Listing image for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.76 | Free shipping</span><span>New</span><span>Seller: andys-prints-uk (99.7% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor"><img src="{{ '/assets/images/marketplace-covers/f1e40d474573eabbc2dc.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.97 | Free shipping</span><span>New</span><span>Seller: forgevalleyprint (98.6% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene"><img src="{{ '/assets/images/marketplace-covers/ec16160b47ff0584e663.jpg' | relative_url }}" alt="Listing image for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.95 | Free shipping</span><span>New</span><span>Seller: mintprint77 (100.0% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket-cd" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ufo-crashes-did-any-ufo-crash-really-happen-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -941,310 +886,165 @@ The position best matched to the evidence is therefore neither automatic belief 
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Source: af.mil  
+   Title: Air Force  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 2.<a id="endnote-2"></a>
-   Source: media.defense.gov  
-   Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — No evidence of extraterrestrial origin of UFO/UAP were discovere...</p></details>
+   Source: science.nasa.gov  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 3.<a id="endnote-3"></a>
-   Source: science.nasa.gov  
-   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAPWe commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs) – that is, o...</p></details>
+   Source: media.defense.gov  
+   Title: U.S. Department of War AARO Historical Record Report Volume 1  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 4.<a id="endnote-4"></a>
-   Source: vault.fbi.gov  
-   Title: Roswell UFOOn  
-   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weath...</p></details>
-   Published: July 8, 1947  
+   Source: sgp.fas.org  
+   Title: Project on Government Secrecy GAO Report on Roswell, NM UFO Crash  
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
 5.<a id="endnote-5"></a>
-   Source: Wikipedia  
-   Title: Roswell incident  
-   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Debris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging that the United Sta...</p></details>
-
-6.<a id="endnote-6"></a>
-   Source: wired.com  
-   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-
-7.<a id="endnote-7"></a>
    Source: media.defense.gov  
+   Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
-8.<a id="endnote-8"></a>
-   Source: archives.gov  
-   Title: National Archives Project BLUE BOOK  
-   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-
-9.<a id="endnote-9"></a>
-   Source: Wikipedia  
-   Title: Kecksburg UFO incident  
-   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-
-10.<a id="endnote-10"></a>
-   Source: wired.com  
-   Link:<a href="https://www.wired.com/2007/10/nasa-opens-keck" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/10/nasa-opens-keck</a>  
-
-11.<a id="endnote-11"></a>
-   Source: Wikipedia  
-   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
-
-12.<a id="endnote-12"></a>
-   Source: Wikipedia  
-   Title: Varginha UFO incident  
-   Link:<a href="https://en.wikipedia.org/wiki/Varginha_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Varginha_UFO_incident</a>  
-
-13.<a id="endnote-13"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-
-14.<a id="endnote-14"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
    Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-15.<a id="endnote-15"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+7.<a id="endnote-7"></a>
+   Source: science.nasa.gov  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-16.<a id="endnote-16"></a>
-   Source: Wikipedia  
-   Title: Roswell (TV series)  
-   Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-
-17.<a id="endnote-17"></a>
-   Source: Wikipedia  
-   Title: Roswell, New Mexico  
-   Link:<a href="https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico</a>  
-
-18.<a id="endnote-18"></a>
-   Source: Wikipedia  
-   Title: Roswell, New Mexico (TV series)  
-   Link:<a href="https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico_%28TV_series%29</a>  
-
-19.<a id="endnote-19"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-20.<a id="endnote-20"></a>
-   Source: nasa.gov  
-   Title: update nasa shares uap independent study report names director  
-   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-
-21.<a id="endnote-21"></a>
-   Source: nasa.gov  
-   Title: to release discuss unidentified anomalous phenomena report  
-   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-
-22.<a id="endnote-22"></a>
-   Source: smd-cms.nasa.gov  
-   Title: 2020 2024 nasa science plan yr 23 update final  
-   Link:<a href="https://smd-cms.nasa.gov/wp-content/uploads/2023/09/2020-2024-nasa-science-plan-yr-23-update-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://smd-cms.nasa.gov/wp-content/uploads/2023/09/2020-2024-nasa-science-plan-yr-23-update-final.pdf</a>  
-
-23.<a id="endnote-23"></a>
-   Source: nasa.gov  
-   Title: announces unidentified aerial phenomena study team members  
-   Link:<a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
-
-24.<a id="endnote-24"></a>
-   Source: nasa.gov  
-   Link:<a href="https://www.nasa.gov/wp-content/uploads/2025/08/2022-agency-foia-log.xlsx?emrc=93a4ff" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2022-agency-foia-log.xlsx?emrc=93a4ff</a>  
-
-25.<a id="endnote-25"></a>
-   Source: nasa.gov  
-   Link:<a href="https://www.nasa.gov/wp-content/uploads/2017/12/2021_agency_foia_log_0.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2017/12/2021_agency_foia_log_0.xlsx</a>  
-
-26.<a id="endnote-26"></a>
-   Source: nasa.gov  
-   Link:<a href="https://www.nasa.gov/wp-content/uploads/2025/08/2023-agency-foia-log.xlsx?emrc=54069a" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2023-agency-foia-log.xlsx?emrc=54069a</a>  
-
-27.<a id="endnote-27"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Title: moving images and sound  
    Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-28.<a id="endnote-28"></a>
-   Source: unwritten-record.blogs.archives.gov  
-   Title: the roswell reports what crashed in the desert  
-   Link:<a href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/</a>  
-
-29.<a id="endnote-29"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Title: Project BLUE BOOK  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-30.<a id="endnote-30"></a>
-   Source: archives.gov  
-   Title: textual and microfilm  
-   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
-
-31.<a id="endnote-31"></a>
-   Source: unwritten-record.blogs.archives.gov  
-   Link:<a href="https://unwritten-record.blogs.archives.gov/tag/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/roswell/</a>  
-
-32.<a id="endnote-32"></a>
-   Source: archives.gov  
-   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-
-33.<a id="endnote-33"></a>
-   Source: archives.gov  
-   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
-
-34.<a id="endnote-34"></a>
-   Source: archives.gov  
-   Title: do records show proof of ufos  
-   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-
-35.<a id="endnote-35"></a>
-   Source: archives.gov  
-   Title: presidential libraries  
-   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
-
-36.<a id="endnote-36"></a>
-   Source: text-message.blogs.archives.gov  
-   Link:<a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
-   Published: may 1948  
-
-37.<a id="endnote-37"></a>
-   Source: archives.gov  
-   Link:<a href="https://www.archives.gov/research/topics/uaps/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/publications</a>  
-
-38.<a id="endnote-38"></a>
-   Source: unwritten-record.blogs.archives.gov  
-   Link:<a href="https://unwritten-record.blogs.archives.gov/page/60/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/page/60/</a>  
-
-39.<a id="endnote-39"></a>
-   Source: unwritten-record.blogs.archives.gov  
-   Link:<a href="https://unwritten-record.blogs.archives.gov/2014/07/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/</a>  
-
-40.<a id="endnote-40"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-41.<a id="endnote-41"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+12.<a id="endnote-12"></a>
+   Source: vault.fbi.gov  
+   Title: Roswell UFO  
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
-42.<a id="endnote-42"></a>
-   Source: aaro.mil  
-   Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+13.<a id="endnote-13"></a>
+   Source: vault.fbi.gov  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-43.<a id="endnote-43"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/portals/136/PDFs/AARO%20Mission%20Brief_DOPSR%20Reviewed%2007-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/AARO%20Mission%20Brief_DOPSR%20Reviewed%2007-2023.pdf</a>  
+14.<a id="endnote-14"></a>
+   Source: space.com  
+   Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-44.<a id="endnote-44"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
+15.<a id="endnote-15"></a>
+   Source: ia601607.us.archive.org  
+   Title: DTIC ADA326148  
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
 
-45.<a id="endnote-45"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+16.<a id="endnote-16"></a>
+   Source: history.com  
+   Title: u s air force reports on roswell  
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
 
-46.<a id="endnote-46"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
+17.<a id="endnote-17"></a>
+   Source: blm.gov  
+   Title: Bureau of Land Management Alleged UFO Skip Site  
+   Link:<a href="https://www.blm.gov/visit/alleged-ufo-skip-site" target="_blank" rel="noopener noreferrer nofollow">https://www.blm.gov/visit/alleged-ufo-skip-site</a>  
 
-47.<a id="endnote-47"></a>
-   Source: dafhistory.af.mil  
-   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</p></details>
-
-48.<a id="endnote-48"></a>
-   Source: gao.gov  
-   Title: nsiad 95 187  
-   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Accountability OfficeNSIAD-95-187 Government Records28 Jul 1995 — Current and past records management regulations. Report of A...</p></details>
-
-49.<a id="endnote-49"></a>
-   Source: muller.lbl.gov  
-   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-
-50.<a id="endnote-50"></a>
-   Source: af.mil  
-   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-
-51.<a id="endnote-51"></a>
+18.<a id="endnote-18"></a>
    Source: recherche-research.bac-lac.gc.ca  
    Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
 
-52.<a id="endnote-52"></a>
-   Source: theguardian.com  
-   Link:<a href="https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite skepticism, interest in the &quot;ET of Varginha&quot; remains strong, with a burgeoning tourism industry featuring an alien museum, themed...</p></details>
+19.<a id="endnote-19"></a>
+   Source: rcfp.org  
+   Link:<a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
 
-53.<a id="endnote-53"></a>
-   Source: theguardian.com  
-   Link:<a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
+20.<a id="endnote-20"></a>
+   Source: apnews.com  
+   Title: AP News Whistleblower says US concealing 'multi-decade' UFO  
+   Link:<a href="https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7</a>  
 
-54.<a id="endnote-54"></a>
-   Source: wsj.com  
-   Link:<a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick&#x27;s investigation unearthed a mix of fringe science, conspiracy theories, and shadowy government projects involving figures lik...</p></details>
+21.<a id="endnote-21"></a>
+   Source: af.mil  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-55.<a id="endnote-55"></a>
-   Source: theguardian.com  
-   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+22.<a id="endnote-22"></a>
+   Source: Wikipedia  
+   Title: Project Blue Book  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-56.<a id="endnote-56"></a>
-   Source: reddit.com  
-   Link:<a href="https://www.reddit.com/r/aliens/comments/1fi2rd8/serious_roswell_affidavits_clear_evidence_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fi2rd8/serious_roswell_affidavits_clear_evidence_of_a/</a>  
+23.<a id="endnote-23"></a>
+   Source: nationalarchives.gov.uk  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-57.<a id="endnote-57"></a>
-   Source: roswellroadmusic.com  
-   Link:<a href="https://www.roswellroadmusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellroadmusic.com/</a>  
+24.<a id="endnote-24"></a>
+   Source: cdn.nationalarchives.gov.uk  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+
+25.<a id="endnote-25"></a>
+   Source: abcnews.com  
+   Link:<a href="https://abcnews.com/Politics/alleged-program-recover-crashed-alien-spacecraft-center-house/story?id=101665230" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/alleged-program-recover-crashed-alien-spacecraft-center-house/story?id=101665230</a>  
+
+26.<a id="endnote-26"></a>
+   Source: auroratexas.gov  
+   Link:<a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
+
+27.<a id="endnote-27"></a>
+   Source: groseducationalmedia.ca  
+   Link:<a href="https://www.groseducationalmedia.ca/vsc/canada6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.groseducationalmedia.ca/vsc/canada6.html</a>  
 
 ### Additional References
 
-58.<a id="endnote-58"></a>
-   Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=DGR_IW5dOZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DGR_IW5dOZA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
-
-59.<a id="endnote-59"></a>
-   Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
-
-60.<a id="endnote-60"></a>
-   Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=FB6FMi7Lpfg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FB6FMi7Lpfg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Varginha UFO Crash: Alien Contact, Government Denial and Coverup...</p></details>
-
-61.<a id="endnote-61"></a>
-   Source: youtube.com  
-   Title: Varginha UFO Crash: Alien Contact, Government Denial and Coverup  
-   Link:<a href="https://www.youtube.com/watch?v=E76kpPjxMcw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E76kpPjxMcw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Did A UFO Really Land In Rendlesham Forest? | Expedition Unknown: Hunt For Extraterrestrials S1E3...</p></details>
-
-62.<a id="endnote-62"></a>
-   Source: arxiv.org  
-   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
-
-63.<a id="endnote-63"></a>
-   Source: roswell-nm.gov  
-   Link:<a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
-
-64.<a id="endnote-64"></a>
+28.<a id="endnote-28"></a>
    Source: nsa.gov  
-   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761379/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761379/</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-65.<a id="endnote-65"></a>
+29.<a id="endnote-29"></a>
+   Source: researchgate.net  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+
+30.<a id="endnote-30"></a>
+   Source: instagram.com  
+   Link:<a href="https://www.instagram.com/p/DY-eygHHxKG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY-eygHHxKG/</a>  
+
+31.<a id="endnote-31"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/KOAT7/posts/documents-detail-investigations-and-historically-significant-sightings-across-th/1429442205878471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KOAT7/posts/documents-detail-investigations-and-historically-significant-sightings-across-th/1429442205878471/</a>  
+
+32.<a id="endnote-32"></a>
+   Source: findagrave.com  
+   Link:<a href="https://www.findagrave.com/memorial/52130170/extraterrestrial_airship_pilot-alien" target="_blank" rel="noopener noreferrer nofollow">https://www.findagrave.com/memorial/52130170/extraterrestrial_airship_pilot-alien</a>  
+
+33.<a id="endnote-33"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/</a>  
+
+34.<a id="endnote-34"></a>
+   Source: meritalk.com  
+   Link:<a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
+
+35.<a id="endnote-35"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/usnationalarchives/posts/project-blue-book-came-to-a-close-50-years-but-americans-are-still-fascinated-by/10158322199357994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/project-blue-book-came-to-a-close-50-years-but-americans-are-still-fascinated-by/10158322199357994/</a>  
+
+36.<a id="endnote-36"></a>
+   Source: theguardian.com  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link:<a href="https://www.reddit.com/r/ufo/comments/1m9zfxf/bombshell_new_investigation_into_pennsylvanias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1m9zfxf/bombshell_new_investigation_into_pennsylvanias/</a>  
-
-66.<a id="endnote-66"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
-
-67.<a id="endnote-67"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/</a>  
-
-<div class="archive-evidence-source-entry"><strong>Source for page image:</strong><a href="https://commons.wikimedia.org/wiki/File:Marcel-roswell-debris_0.jpg" target="_blank" rel="noopener noreferrer">Marcel-roswell-debris 0</a> &middot; Wikimedia Commons &middot; Public domain</div>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/</a>  

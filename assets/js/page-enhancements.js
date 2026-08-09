@@ -197,6 +197,13 @@
     });
   }
 
+  function getArticleDrawerMediaQuery() {
+    var body = document.body;
+    return body && body.classList.contains("page-article")
+      ? "(max-width: 1120px)"
+      : "(max-width: 980px)";
+  }
+
   function emitReaderEngagement(eventName, detail) {
     var payload = Object.assign({
       page_path: String(window.location.pathname || ""),
@@ -1005,8 +1012,27 @@
     var defaultState = String(root.getAttribute("data-mobile-sidebar-default") || "closed").toLowerCase();
     var isOpen = defaultState === "open";
     var presentationMode = "contents";
+    var activeTrigger = null;
     var titleNodes = sidebar.querySelectorAll(".mobile-sidebar-title, .sidebar-section-title");
     var presentationCloseButtons = sidebar.querySelectorAll("[data-mobile-sidebar-close], [data-sidebar-hide='right']");
+    var focusableSelector = [
+      "a[href]",
+      "button:not([disabled])",
+      "input:not([disabled])",
+      "select:not([disabled])",
+      "textarea:not([disabled])",
+      "[tabindex]:not([tabindex='-1'])"
+    ].join(",");
+
+    sidebar.setAttribute("role", "dialog");
+    sidebar.setAttribute("aria-modal", "true");
+    sidebar.setAttribute("tabindex", "-1");
+
+    var getFocusableNodes = function () {
+      return Array.prototype.filter.call(sidebar.querySelectorAll(focusableSelector), function (node) {
+        return !node.hidden && node.getAttribute("aria-hidden") !== "true" && node.getClientRects().length > 0;
+      });
+    };
 
     var getPresentationTitle = function (mode) {
       if (mode === "search") {
@@ -1039,6 +1065,7 @@
     var applyPresentation = function (mode) {
       presentationMode = mode === "search" ? "search" : "contents";
       sidebar.setAttribute("data-mobile-sidebar-view", presentationMode);
+      sidebar.setAttribute("aria-label", getPresentationTitle(presentationMode));
       Array.prototype.forEach.call(titleNodes, function (node) {
         node.textContent = getPresentationTitle(presentationMode);
       });
@@ -1056,12 +1083,16 @@
       }
     });
 
-    var applyState = function (nextOpen) {
+    var applyState = function (nextOpen, restoreFocus) {
       isOpen = Boolean(nextOpen);
+      if (isOpen && !activeTrigger && document.activeElement && document.activeElement !== document.body) {
+        activeTrigger = document.activeElement;
+      }
       if (!isOpen) {
         applyPresentation("contents");
       }
       document.body.classList.toggle("mobile-sidebar-open", isOpen);
+      sidebar.setAttribute("aria-hidden", isOpen ? "false" : "true");
       Array.prototype.forEach.call(openButtons, function (button) {
         button.setAttribute("aria-expanded", isOpen ? "true" : "false");
         button.setAttribute("aria-label", isOpen ? getCloseLabel(presentationMode) : getOpenLabel(presentationMode));
@@ -1069,11 +1100,26 @@
           ? getTriggerLabel(presentationMode)
           : (button.getAttribute("data-mobile-sidebar-label") || getUiString("contents", "Contents"));
       });
+      if (isOpen) {
+        window.requestAnimationFrame(function () {
+          var focusTarget = presentationMode === "search"
+            ? sidebar.querySelector("[data-sidebar-filter]")
+            : null;
+          focusTarget = focusTarget || sidebar.querySelector("[data-mobile-sidebar-close]") || getFocusableNodes()[0];
+          if (focusTarget && typeof focusTarget.focus === "function") {
+            focusTarget.focus();
+          }
+        });
+      } else if (restoreFocus !== false && activeTrigger && typeof activeTrigger.focus === "function") {
+        activeTrigger.focus();
+        activeTrigger = null;
+      }
     };
 
     Array.prototype.forEach.call(openButtons, function (button) {
       button.addEventListener("click", function () {
         if (!isOpen) {
+          activeTrigger = button;
           applyPresentation("contents");
         }
         applyState(!isOpen);
@@ -1088,15 +1134,39 @@
 
     Array.prototype.forEach.call(sidebar.querySelectorAll(".sidebar-link"), function (link) {
       link.addEventListener("click", function () {
-        if (window.matchMedia && window.matchMedia("(max-width: 980px)").matches) {
-          applyState(false);
+        if (window.matchMedia && window.matchMedia(getArticleDrawerMediaQuery()).matches) {
+          applyState(false, false);
         }
       });
     });
 
     document.addEventListener("keydown", function (event) {
-      if (String(event.key || "") === "Escape") {
+      if (!isOpen) {
+        return;
+      }
+      var key = String(event.key || "");
+      if (key === "Escape") {
+        event.preventDefault();
         applyState(false);
+        return;
+      }
+      if (key !== "Tab") {
+        return;
+      }
+      var focusableNodes = getFocusableNodes();
+      if (!focusableNodes.length) {
+        event.preventDefault();
+        sidebar.focus();
+        return;
+      }
+      var firstNode = focusableNodes[0];
+      var lastNode = focusableNodes[focusableNodes.length - 1];
+      if (event.shiftKey && document.activeElement === firstNode) {
+        event.preventDefault();
+        lastNode.focus();
+      } else if (!event.shiftKey && document.activeElement === lastNode) {
+        event.preventDefault();
+        firstNode.focus();
       }
     });
 
@@ -1116,7 +1186,7 @@
     };
 
     applyPresentation("contents");
-    applyState(isOpen);
+    applyState(isOpen, false);
   }
 
   function initMobileQuickNav() {
@@ -1144,7 +1214,7 @@
       button.addEventListener("click", function () {
         var sidebarController = document.body.__phoenixMobileSidebar || null;
         var openButton = document.querySelector("[data-mobile-sidebar-open]");
-        var isMobile = Boolean(window.matchMedia && window.matchMedia("(max-width: 980px)").matches);
+        var isMobile = Boolean(window.matchMedia && window.matchMedia(getArticleDrawerMediaQuery()).matches);
         var shouldOpenSidebar = Boolean(
           openButton
           && isMobile
@@ -2480,7 +2550,8 @@
       return;
     }
 
-    var mediaQuery = window.matchMedia ? window.matchMedia("(max-width: 980px)") : null;
+    var mediaQuery = window.matchMedia ? window.matchMedia(getArticleDrawerMediaQuery()) : null;
+    var activeToggleButton = null;
 
     var syncState = function () {
       var hasToc = Boolean(toc.children.length);
@@ -2502,6 +2573,7 @@
         if (panel.hidden) {
           return;
         }
+        activeToggleButton = button;
         panel.open = !panel.open;
         button.setAttribute("aria-expanded", panel.open ? "true" : "false");
         if (panel.open && typeof panel.scrollIntoView === "function") {
@@ -2516,7 +2588,21 @@
         Array.prototype.forEach.call(toggleButtons, function (toggleButton) {
           toggleButton.setAttribute("aria-expanded", "false");
         });
+        if (activeToggleButton && typeof activeToggleButton.focus === "function") {
+          activeToggleButton.focus();
+        }
       });
+    });
+
+    panel.addEventListener("keydown", function (event) {
+      if (String(event.key || "") !== "Escape" || !panel.open) {
+        return;
+      }
+      event.preventDefault();
+      panel.open = false;
+      if (activeToggleButton && typeof activeToggleButton.focus === "function") {
+        activeToggleButton.focus();
+      }
     });
 
     panel.addEventListener("toggle", function () {
@@ -3548,12 +3634,23 @@
       }
 
       function normalizeCardTitleForCompare(value) {
-        return String(value || "").replace(/\s+/g, " ").trim().toLowerCase();
+        return String(value || "")
+          .replace(/[^\p{L}\p{N}_]+/gu, " ")
+          .replace(/[0-9]+/g, function (digits) { return String(parseInt(digits, 10)); })
+          .replace(/\s+/g, " ")
+          .trim()
+          .toLowerCase();
+      }
+
+      function stripCardHierarchySuffix(value) {
+        var label = String(value || "").replace(/\s+/g, " ").trim();
+        var match = label.match(/^(.*)\s(?:\||:)\s([^.!?]{1,56})$/);
+        return match && match[1].trim().length >= 2 ? match[1].trim() : label;
       }
 
       function getSecondaryCardTitle(node) {
-        var catchyTitle = String((node && node.catchy_title) || "").replace(/\s+/g, " ").trim();
-        var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
+        var catchyTitle = stripCardHierarchySuffix((node && node.catchy_title) || "");
+        var fullLabel = stripCardHierarchySuffix(getFullLabel(node));
         var displayLabel = getDisplayLabel(node).replace(/\s+/g, " ").trim();
         if (catchyTitle && normalizeCardTitleForCompare(catchyTitle) !== normalizeCardTitleForCompare(displayLabel)) {
           return catchyTitle;
@@ -5517,14 +5614,27 @@
 
       function normalizeCardTitleForCompare(value) {
 
-        return String(value || "").replace(/\s+/g, " ").trim().toLowerCase();
+        return String(value || "")
+          .replace(/[^\p{L}\p{N}_]+/gu, " ")
+          .replace(/[0-9]+/g, function (digits) { return String(parseInt(digits, 10)); })
+          .replace(/\s+/g, " ")
+          .trim()
+          .toLowerCase();
+
+      }
+
+      function stripCardHierarchySuffix(value) {
+
+        var label = String(value || "").replace(/\s+/g, " ").trim();
+        var match = label.match(/^(.*)\s(?:\||:)\s([^.!?]{1,56})$/);
+        return match && match[1].trim().length >= 2 ? match[1].trim() : label;
 
       }
 
       function getSecondaryCardTitle(node, displayLabel) {
 
-        var catchyTitle = String((node && node.catchy_title) || "").replace(/\s+/g, " ").trim();
-        var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
+        var catchyTitle = stripCardHierarchySuffix((node && node.catchy_title) || "");
+        var fullLabel = stripCardHierarchySuffix(getFullLabel(node));
         var compactLabel = String(displayLabel || getDisplayLabel(node)).replace(/\s+/g, " ").trim();
 
         if (catchyTitle && normalizeCardTitleForCompare(catchyTitle) !== normalizeCardTitleForCompare(compactLabel)) {
@@ -7781,10 +7891,6 @@
     if (mode !== "auto" && mode !== "expanded" && mode !== "collapsed") {
       mode = "auto";
     }
-    if (mode === "expanded") {
-      return;
-    }
-
     var threshold = parseInt(root.getAttribute("data-endnotes-collapse-threshold"), 10);
     if (!Number.isFinite(threshold) || threshold < 1) {
       threshold = 6;
@@ -7800,11 +7906,13 @@
     }
 
     var entries = [];
+    var auxiliaryEntries = [];
     var sections = [];
     var currentSection = {
       heading: null,
       refs: [],
-      lists: []
+      lists: [],
+      lastRef: null
     };
     sections.push(currentSection);
     var cursor = marker.nextElementSibling;
@@ -7820,7 +7928,8 @@
           currentSection = {
             heading: cursor,
             refs: [],
-            lists: []
+            lists: [],
+            lastRef: null
           };
           sections.push(currentSection);
         } else {
@@ -7837,23 +7946,50 @@
           if (listItems.length) {
             cursor.classList.add("endnotes-entry-list");
             Array.prototype.forEach.call(listItems, function (item) {
-              currentSection.refs.push({
+              var listEntry = {
                 node: item,
                 container: cursor
-              });
+              };
+              if (item.querySelector('a[id^="endnote-"]')) {
+                currentSection.refs.push(listEntry);
+                currentSection.lastRef = listEntry;
+              } else {
+                listEntry.owner = currentSection.lastRef;
+                auxiliaryEntries.push(listEntry);
+              }
             });
-          } else {
-            currentSection.refs.push({
+          } else if (cursor.querySelector('a[id^="endnote-"]')) {
+            var listContainerEntry = {
               node: cursor,
               container: cursor
-            });
+            };
+            currentSection.refs.push(listContainerEntry);
+            currentSection.lastRef = listContainerEntry;
           }
         } else if (!cursor.classList.contains("additional-references-marker")) {
-          currentSection.refs.push({
+          var siblingEntry = {
             node: cursor,
             container: cursor
-          });
+          };
+          if (cursor.querySelector('a[id^="endnote-"]')) {
+            currentSection.refs.push(siblingEntry);
+            currentSection.lastRef = siblingEntry;
+          } else {
+            siblingEntry.owner = currentSection.lastRef;
+            auxiliaryEntries.push(siblingEntry);
+          }
         }
+        var outboundLinks = cursor.querySelectorAll("a[href]");
+        Array.prototype.forEach.call(outboundLinks, function (link) {
+          var previous = link.previousSibling;
+          if (
+            previous &&
+            previous.nodeType === 3 &&
+            /\bLink:$/i.test(String(previous.nodeValue || ""))
+          ) {
+            previous.nodeValue += " ";
+          }
+        });
       }
       cursor = cursor.nextElementSibling;
     }
@@ -7870,6 +8006,16 @@
     });
     var summaryNoun = sections.length > 1 ? "references" : "endnotes";
 
+    Array.prototype.forEach.call(toggleTargets, function (entry) {
+      if (entry && entry.node) {
+        entry.node.classList.add("endnotes-entry");
+      }
+    });
+
+    if (mode === "expanded") {
+      return;
+    }
+
     if (mode === "auto" && toggleTargets.length <= threshold) {
       return;
     }
@@ -7881,7 +8027,6 @@
       if (!entry || !entry.node) {
         return;
       }
-      entry.node.classList.add("endnotes-entry");
       entry.node.classList.toggle("is-hidden-endnote", index >= initialVisible);
     });
 
@@ -7902,7 +8047,7 @@
       button.className = "endnotes-toggle-button";
       controls.appendChild(button);
 
-      controlGroups.push({ summary: summary, button: button });
+      controlGroups.push({ wrap: controls, summary: summary, button: button });
       return controls;
     };
 
@@ -7927,6 +8072,7 @@
         group.summary.textContent = summaryText;
         group.button.textContent = buttonText;
         group.button.setAttribute("aria-expanded", ariaExpanded);
+        group.wrap.classList.toggle("is-endnotes-expanded", ariaExpanded === "true");
       });
     };
     var update = function () {
@@ -7935,6 +8081,18 @@
           return;
         }
         entry.node.classList.toggle("is-hidden-endnote", !expanded && index >= initialVisible);
+      });
+      Array.prototype.forEach.call(auxiliaryEntries, function (entry) {
+        if (!entry || !entry.node || !entry.node.classList) {
+          return;
+        }
+        var ownerHidden = Boolean(
+          entry.owner &&
+          entry.owner.node &&
+          entry.owner.node.classList &&
+          entry.owner.node.classList.contains("is-hidden-endnote")
+        );
+        setBlockHidden(entry.node, !expanded && ownerHidden);
       });
       Array.prototype.forEach.call(sections, function (section) {
         var visibleInSection = 0;
@@ -8781,6 +8939,9 @@
     }
     var figure = imageNode.closest("figure");
     if (figure && article.contains(figure)) {
+      if (figure.querySelector("figcaption")) {
+        return imageNode;
+      }
       return figure;
     }
 
@@ -8845,12 +9006,20 @@
       if (!assetUrl || !isPipelineActionableAssetUrl(assetUrl)) {
         return;
       }
+      var figure = imageNode.closest("figure");
+      var figureCaption = figure ? figure.querySelector("figcaption") : null;
+      var displayLabel = String(
+        (figureCaption && figureCaption.textContent)
+        || imageNode.getAttribute("alt")
+        || document.title
+        || "Infographic"
+      ).replace(/\s+/g, " ").trim();
       assets.push({
         image: imageNode,
         host: getImageActionHost(imageNode, article),
         url: assetUrl,
         downloadName: getFileNameFromUrl(assetUrl, "image"),
-        label: String(imageNode.getAttribute("alt") || document.title || "Infographic").trim()
+        label: displayLabel
       });
     });
     return assets;
@@ -8876,45 +9045,6 @@
       downloadName: getFileNameFromUrl(assetUrl, "image"),
           label: String(heroImage.getAttribute("alt") || document.title || "Page preview").trim()
     };
-  }
-
-  function normalizeAssetComparisonUrl(rawUrl) {
-    try {
-      var parsed = new URL(String(rawUrl || ""), window.location.href);
-      parsed.hash = "";
-      parsed.search = "";
-      return parsed.href;
-    } catch (err) {
-      return "";
-    }
-  }
-
-  function markDuplicateMobileHeroPreview(article) {
-    var heroPreviewAsset = getHeroPreviewAsset();
-    if (!article || !heroPreviewAsset || !heroPreviewAsset.host) {
-      return;
-    }
-    var heroUrl = normalizeAssetComparisonUrl(heroPreviewAsset.url);
-    if (!heroUrl) {
-      return;
-    }
-    var duplicateImage = null;
-    var articleImages = article.querySelectorAll("img");
-    Array.prototype.some.call(articleImages, function (imageNode) {
-      var assetUrl = normalizeAssetComparisonUrl(resolvePrimaryAssetUrl(imageNode));
-      if (assetUrl && assetUrl === heroUrl) {
-        duplicateImage = imageNode;
-        return true;
-      }
-      return false;
-    });
-    if (!duplicateImage) {
-      return;
-    }
-    var duplicateHost = getImageActionHost(duplicateImage, article);
-    if (duplicateHost) {
-      duplicateHost.classList.add("article-overview-media-mobile-duplicate");
-    }
   }
 
   function isSvgAssetUrl(rawUrl) {
@@ -9161,7 +9291,6 @@
 
     var actionableAssets = getArticleAssets(article);
     var heroPreviewAsset = getHeroPreviewAsset();
-    markDuplicateMobileHeroPreview(article);
     if (heroPreviewAsset) {
       actionableAssets.unshift(heroPreviewAsset);
     }
@@ -9173,6 +9302,9 @@
     overlay.className = "image-lightbox";
     overlay.setAttribute("hidden", "hidden");
     overlay.setAttribute("aria-hidden", "true");
+    overlay.setAttribute("role", "dialog");
+    overlay.setAttribute("aria-modal", "true");
+    overlay.setAttribute("aria-label", "Expanded image viewer");
     overlay.innerHTML = ""
       + "<div class=\"image-lightbox-stage\" role=\"document\">"
       + "<button type=\"button\" class=\"image-lightbox-close\" aria-label=\"Close image viewer\">Close</button>"
@@ -9185,8 +9317,9 @@
     var stageImage = overlay.querySelector(".image-lightbox-image");
     var stageCaption = overlay.querySelector(".image-lightbox-caption");
     var previousOverflow = "";
+    var previouslyFocusedElement = null;
 
-    function closeOverlay() {
+    function closeOverlay(restoreFocus) {
       overlay.setAttribute("hidden", "hidden");
       overlay.setAttribute("aria-hidden", "true");
       stageImage.removeAttribute("src");
@@ -9198,6 +9331,10 @@
       }
       document.body.style.overflow = previousOverflow || "";
       previousOverflow = "";
+      if (restoreFocus !== false && previouslyFocusedElement && typeof previouslyFocusedElement.focus === "function") {
+        previouslyFocusedElement.focus();
+      }
+      previouslyFocusedElement = null;
     }
 
     function openOverlay(asset) {
@@ -9217,6 +9354,9 @@
         return;
       }
       var alt = String(asset.label || asset.image.getAttribute("alt") || "").trim();
+      previouslyFocusedElement = document.activeElement && document.activeElement !== document.body
+        ? document.activeElement
+        : asset.image;
       previousOverflow = document.body.style.overflow || "";
       stageImage.src = src;
       if (darkSrc && lightSrc) {
@@ -9233,6 +9373,11 @@
       overlay.removeAttribute("hidden");
       overlay.setAttribute("aria-hidden", "false");
       document.body.style.overflow = "hidden";
+      window.requestAnimationFrame(function () {
+        if (closeButton && typeof closeButton.focus === "function") {
+          closeButton.focus();
+        }
+      });
     }
 
     function attachImageHandler(asset) {
@@ -9255,11 +9400,19 @@
           }
         }
       imageNode.classList.add("zoomable-image");
-      imageNode.setAttribute("tabindex", "0");
-      imageNode.setAttribute("role", "button");
-      if (!imageNode.getAttribute("aria-label")) {
-        var altText = String(imageNode.getAttribute("alt") || "").trim();
-        imageNode.setAttribute("aria-label", altText ? ("Expand image: " + altText) : "Expand image");
+      var parentLink = imageNode.closest("a");
+      var altText = String(imageNode.getAttribute("alt") || "").trim();
+      var accessibleLabel = altText ? ("Expand image: " + altText) : "Expand image";
+      if (parentLink) {
+        parentLink.setAttribute("aria-label", accessibleLabel);
+        imageNode.removeAttribute("tabindex");
+        imageNode.removeAttribute("role");
+      } else {
+        imageNode.setAttribute("tabindex", "0");
+        imageNode.setAttribute("role", "button");
+        if (!imageNode.getAttribute("aria-label")) {
+          imageNode.setAttribute("aria-label", accessibleLabel);
+        }
       }
 
       imageNode.addEventListener("click", function (event) {
@@ -9277,7 +9430,6 @@
         }
       });
 
-      var parentLink = imageNode.closest("a");
       if (parentLink) {
         parentLink.addEventListener("click", function (event) {
           if (event.target === imageNode) {
@@ -9308,19 +9460,30 @@
 
     if (closeButton) {
       closeButton.addEventListener("click", function () {
-        closeOverlay();
+        closeOverlay(true);
       });
     }
 
     overlay.addEventListener("click", function (event) {
       if (event.target === overlay) {
-        closeOverlay();
+        closeOverlay(true);
       }
     });
 
     document.addEventListener("keydown", function (event) {
-      if (event.key === "Escape" && !overlay.hasAttribute("hidden")) {
-        closeOverlay();
+      if (overlay.hasAttribute("hidden")) {
+        return;
+      }
+      if (event.key === "Escape") {
+        event.preventDefault();
+        closeOverlay(true);
+        return;
+      }
+      if (event.key === "Tab") {
+        event.preventDefault();
+        if (closeButton && typeof closeButton.focus === "function") {
+          closeButton.focus();
+        }
       }
     });
   }
