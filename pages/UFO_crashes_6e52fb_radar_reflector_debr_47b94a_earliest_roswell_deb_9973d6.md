@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-03 23:02:09'
+last_modified_at: '2026-08-03 23:02:09'
 parent_title: The Strange Devices Found in Balloon Debris | UFO Crashes
 parent_permalink: /radar-targets/
 parent_nav_short_title: Radar Targets

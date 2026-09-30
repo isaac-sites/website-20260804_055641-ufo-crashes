@@ -295,6 +295,7 @@ next_link:
   short_title: Roswell Revival
   heading_title: How an Old Headline Revived Roswell
 date: '2026-08-04 05:43:00 '
+last_modified_at: '2026-08-04 05:43:00 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_roswell_press_releas_22ebff_roswell_headline_mem_34a45f-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_roswell_press_releas_22ebff_roswell_headline_mem_34a45f-Illustration-1.webp

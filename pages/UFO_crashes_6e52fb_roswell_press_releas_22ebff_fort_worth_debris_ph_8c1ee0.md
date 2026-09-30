@@ -295,6 +295,7 @@ next_link:
   short_title: Wire Spread
   heading_title: How Roswell Went Global in a Few Hours
 date: '2026-08-04 05:42:55 '
+last_modified_at: '2026-08-04 05:42:55 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_roswell_press_releas_22ebff_fort_worth_debris_ph_8c1ee0-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_roswell_press_releas_22ebff_fort_worth_debris_ph_8c1ee0-Illustration-1.webp

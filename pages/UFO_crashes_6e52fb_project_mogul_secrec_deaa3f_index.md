@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-project-mogul/
 description: Focused pages that expand on Project Mogul.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_project_mogul_secrec_deaa3f
 parent_title: Project Mogul | UFO crashes

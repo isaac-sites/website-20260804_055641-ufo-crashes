@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-ufo-crash-fieldwork/
 description: Focused pages that expand on Field Protocol.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_ufo_crash_fieldwork_ffb86f
 parent_title: Field Protocol | UFO crashes
