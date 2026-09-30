@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-aircraft-accident/
 description: Focused pages that expand on Aircraft Accidents.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_aircraft_accident_lo_c19ae2
 parent_title: Aircraft Accidents | UFO crashes

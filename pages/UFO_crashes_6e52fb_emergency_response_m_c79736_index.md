@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-emergency-response/
 description: Focused pages that expand on Emergency Response.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_emergency_response_m_c79736
 parent_title: Emergency Response | UFO crashes

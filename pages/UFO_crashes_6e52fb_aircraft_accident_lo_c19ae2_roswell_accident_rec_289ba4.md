@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-03 22:47:26'
+last_modified_at: '2026-08-03 22:47:26'
 parent_title: When Real Air Crashes Become UFO Legends | UFO crashes
 parent_permalink: /aircraft-accidents/
 parent_nav_short_title: Aircraft Accidents

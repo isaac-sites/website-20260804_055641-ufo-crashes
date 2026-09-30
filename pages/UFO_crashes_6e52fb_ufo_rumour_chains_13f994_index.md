@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-ufo-rumour-chains/
 description: Focused pages that expand on Rumour Chains.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_ufo_rumour_chains_13f994
 parent_title: Rumour Chains | UFO crashes

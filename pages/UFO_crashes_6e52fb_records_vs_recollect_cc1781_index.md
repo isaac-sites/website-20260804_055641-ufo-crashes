@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-records-vs/
 description: Focused pages that expand on Records vs Memory.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_records_vs_recollect_cc1781
 parent_title: Records vs Memory | UFO crashes

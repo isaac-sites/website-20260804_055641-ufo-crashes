@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 00:48:18'
+last_modified_at: '2026-08-04 00:48:18'
 parent_title: What Official UFO Crash Reviews Actually Found | UFO crashes
 parent_permalink: /official-reviews/
 parent_nav_short_title: Official Reviews

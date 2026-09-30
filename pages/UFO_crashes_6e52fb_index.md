@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-index/
 description: Focused pages that expand on UFO crashes.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb
 parent_title: UFO crashes

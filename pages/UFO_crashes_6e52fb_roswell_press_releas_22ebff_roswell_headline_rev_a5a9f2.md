@@ -295,6 +295,7 @@ next_link:
   short_title: The Famous Fort Worth Debris Photographs
   heading_title: What Do the Famous Roswell Debris Photos Show?
 date: '2026-08-04 05:43:04 '
+last_modified_at: '2026-08-04 05:43:04 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_roswell_press_releas_22ebff_roswell_headline_rev_a5a9f2-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_roswell_press_releas_22ebff_roswell_headline_rev_a5a9f2-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-fireball-crash/
 description: Focused pages that expand on Fireballs.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_fireball_crash_mista_4f238a
 parent_title: Fireballs
