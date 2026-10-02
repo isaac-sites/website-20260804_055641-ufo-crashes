@@ -14,7 +14,7 @@ parent_nav_short_title: Records vs Memory
 parent_permalink: /records-vs-memory/
 ---
 
-# Explore Topics in Records vs Memory
+## Explore Topics in Records vs Memory
 
 The following pages expand on the main **[Records vs Memory]({{ '/records-vs-memory/' | relative_url }})** page and cover its key branches in.
 
