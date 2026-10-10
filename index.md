@@ -4580,6 +4580,46 @@ site_image_description: A remote desert recovery site with scattered metallic de
 </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude="" aria-labelledby="homepage-reading-title">
+<div class="fr-section-shell">
+  <div class="fr-section-header">
+    <div class="fr-section-heading">
+      <p class="fr-section-kicker">Amazon book picks</p>
+      <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+    </div>
+    <p class="fr-intro">The books behind the case files on this site — the classic official account, the Roswell investigations, and the document trail of crash retrieval claims. Each case report carries picks tied to its own subject.</p>
+  </div>
+  <div class="fr-books-grid">
+<article class="fr-book-card">
+  <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J+Ruppelt&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2758071-M.jpg" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+  <div class="fr-book-info">
+    <h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J+Ruppelt&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a></h4>
+    <p class="fr-book-author">By Edward J. Ruppelt</p>
+    <p class="fr-book-desc">The first-hand official account by the man who ran the Air Force's Project Blue Book.</p>
+    <div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J+Ruppelt&i=stripbooks&tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">See on Amazon</a></div>
+  </div>
+</article>
+<article class="fr-book-card">
+  <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+Thomas+J+Carey&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1898014-M.jpg" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+  <div class="fr-book-info">
+    <h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Witness+to+Roswell+Thomas+J+Carey&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a></h4>
+    <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+    <p class="fr-book-desc">The closest thing to a standard reference on the Roswell retrieval claims.</p>
+    <div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Witness+to+Roswell+Thomas+J+Carey&i=stripbooks&tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">See on Amazon</a></div>
+  </div>
+</article>
+<article class="fr-book-card">
+  <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+Stanton+T+Friedman&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8546534-M.jpg" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+  <div class="fr-book-info">
+    <h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Crash+at+Corona+Stanton+T+Friedman&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a></h4>
+    <p class="fr-book-author">By Stanton T. Friedman, Charles Berlitz</p>
+    <p class="fr-book-desc">The early full-length investigation that put the Roswell debris-field story in print.</p>
+    <div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Crash+at+Corona+Stanton+T+Friedman&i=stripbooks&tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">See on Amazon</a></div>
+  </div>
+</article>
+  </div>
 </div>
 </section>
 
+</div>
+</section>
