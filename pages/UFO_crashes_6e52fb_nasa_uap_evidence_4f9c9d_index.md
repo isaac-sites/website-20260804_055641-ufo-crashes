@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-nasa-uap-evidence/
 description: Focused pages that expand on NASA Standard.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_nasa_uap_evidence_4f9c9d
 parent_title: NASA Standard | UFO crashes

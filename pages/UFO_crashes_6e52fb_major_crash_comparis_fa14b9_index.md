@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-major-crash/
 description: Focused pages that expand on Case Comparison.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_major_crash_comparis_fa14b9
 parent_title: Case Comparison | UFO crashes

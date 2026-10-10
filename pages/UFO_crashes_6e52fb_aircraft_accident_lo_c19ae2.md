@@ -254,6 +254,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-03 22:28:18'
+last_modified_at: '2026-08-03 22:28:18'
 parent_title: UFO Crashes
 parent_permalink: /ufo-crashes/
 parent_nav_short_title: UFO Crashes

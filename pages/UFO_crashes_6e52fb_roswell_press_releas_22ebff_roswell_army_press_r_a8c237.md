@@ -289,6 +289,7 @@ next_link:
   short_title: Balloon Paradox
   heading_title: Why Roswell's Correction Never Ended the Mystery
 date: '2026-08-04 05:42:56 '
+last_modified_at: '2026-08-04 05:42:56 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_roswell_press_releas_22ebff_roswell_army_press_r_a8c237-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_roswell_press_releas_22ebff_roswell_army_press_r_a8c237-Illustration-1.webp

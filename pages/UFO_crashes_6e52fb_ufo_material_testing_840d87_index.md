@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-ufo-material/
 description: Focused pages that expand on Material Testing.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_ufo_material_testing_840d87
 parent_title: Material Testing | UFO crashes

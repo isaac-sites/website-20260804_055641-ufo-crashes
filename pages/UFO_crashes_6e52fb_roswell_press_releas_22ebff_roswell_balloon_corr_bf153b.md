@@ -295,6 +295,7 @@ next_link:
   short_title: Headline Memory
   heading_title: Why Everyone Remembers the Claim, Not the Correction
 date: '2026-08-04 05:42:58 '
+last_modified_at: '2026-08-04 05:42:58 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_roswell_press_releas_22ebff_roswell_balloon_corr_bf153b-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_roswell_press_releas_22ebff_roswell_balloon_corr_bf153b-Illustration-1.webp

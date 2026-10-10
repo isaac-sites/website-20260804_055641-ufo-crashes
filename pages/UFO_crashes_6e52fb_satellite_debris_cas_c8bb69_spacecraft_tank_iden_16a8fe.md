@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-03 22:09:35'
+last_modified_at: '2026-08-03 22:09:35'
 parent_title: When Space Junk Looks Like a Crashed UFO | UFO crashes
 parent_permalink: /satellite-debris/
 parent_nav_short_title: Satellite Debris
