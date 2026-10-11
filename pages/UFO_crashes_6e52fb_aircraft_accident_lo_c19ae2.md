@@ -1159,7 +1159,6 @@ The appropriate conclusion is not that every [unexplained]({{ 'unexplained/' | r
 30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
    Title: raf combat reports 1939 1945  
-   Link:https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports  
 
 31.<a id="endnote-31"></a>
    Source: nationalarchives.gov.uk  

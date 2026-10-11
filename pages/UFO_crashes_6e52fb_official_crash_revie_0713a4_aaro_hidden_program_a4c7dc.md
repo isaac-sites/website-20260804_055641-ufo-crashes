@@ -988,7 +988,6 @@ According to the office, allegations of hidden recovery programmes were tested b
 
 26.<a id="endnote-26"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 27.<a id="endnote-27"></a>
    Source: reddit.com  
