@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufo-crashes/
 - /records-vs-memory/
 nav_short_title: Missing Files
-title: Do Roswell's Missing Files Prove a Cover Up?
+title: "Do Roswell's Missing Files Prove a Cover Up? (missing files)"
 title_full: Do Roswell's Missing Files Prove a Cover Up? | Records vs Memory
 display_title_short: Missing Files
 display_title: Missing Files
