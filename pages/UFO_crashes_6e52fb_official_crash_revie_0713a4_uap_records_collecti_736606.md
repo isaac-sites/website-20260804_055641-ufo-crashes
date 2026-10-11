@@ -337,7 +337,7 @@ This differs from earlier disclosure efforts in several important ways:
 * It creates a government-wide rather than agency-specific collection.
 * It requires common metadata, making records easier to cross-reference.
 * It preserves both redacted public versions and corresponding unredacted copies for archival custody where appropriate.
-* It anticipates rolling transfers, allowing the archive to expand over time instead of appearing all at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.2025 &#124; National Archives...</span></span></span>
+* It anticipates rolling transfers, allowing the archive to expand over time instead of appearing all at once.<span class="citation-link-wrap">[National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.2025 &#124; National Archives...</span></span></span>
 
 </div>
 
@@ -837,7 +837,7 @@ Those outcomes are historically valuable in their own right. They can clarify wh
 
 3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.2025 | National Archives...</p></details>
 
 4.<a id="endnote-4"></a>
@@ -873,7 +873,7 @@ Those outcomes are historically valuable in their own right. They can clarify wh
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 10.<a id="endnote-10"></a>
    Source: aaro.mil  
