@@ -899,12 +899,10 @@ For readers examining claims of hidden UFO crash-retrieval programmes, KONA BLUE
 
 12.<a id="endnote-12"></a>
    Source: en.wikisource.org  
-   Link:https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena/Volume 1/Section 6 - Wikis...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparency...</p></details>
 
 14.<a id="endnote-14"></a>
