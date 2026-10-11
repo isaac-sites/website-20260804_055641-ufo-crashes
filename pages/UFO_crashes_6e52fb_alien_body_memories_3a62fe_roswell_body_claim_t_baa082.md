@@ -27,8 +27,8 @@ sidebar_expanded_urls:
 - /ufo-crashes/
 - /alien-bodies/
 nav_short_title: Claim Timeline
-title: When Did Roswell's Alien Bodies Enter the Story?
-title_full: When Did Roswell's Alien Bodies Enter the Story?
+title: "When Did Roswell's Alien Bodies Enter the Story? (claim timeline)"
+title_full: "When Did Roswell's Alien Bodies Enter the Story? (claim timeline)"
 display_title_short: Claim Timeline
 display_title: Claim Timeline
 heading_title: When Did Roswell's Alien Bodies Enter the Story?

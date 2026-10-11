@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufo-crashes/
 - /records-vs-memory/
 nav_short_title: Body Claims
-title: When Did Roswell's Alien Bodies Enter the Story?
+title: "When Did Roswell's Alien Bodies Enter the Story? (body claims)"
 title_full: When Did Roswell's Alien Bodies Enter the Story? | Records vs Memory
 display_title_short: Body Claims
 display_title: Body Claims
